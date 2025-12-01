@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  # PostgreSQL database (for future use)
+  postgres:
+    image: postgres:15-alpine
+    container_name: subsidie-matcher-db
+    environment:
+      POSTGRES_USER: subsidie_user
+      POSTGRES_PASSWORD: subsidie_pass
+      POSTGRES_DB: subsidie_matcher
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  # PgAdmin (optional database management tool)
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: subsidie-matcher-pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@subsidie-matcher.local
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "5050:80"
+    depends_on:
+      - postgres
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
