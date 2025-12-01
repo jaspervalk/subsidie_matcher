@@ -43,7 +43,7 @@
 - **Value Created:** €5M+ aan gevonden subsidies voor klanten
 
 ### The Pitch
-> "Stel je voor: Een metaalbedrijf koopt een €80k CNC machine. Zonder ons betalen ze €80k. Met SubsidieMatch: EIA €8k + optimalisatie €2k = €10k besparing. Kost hun €0,50 per scan. Wij verdienen via SaaS model aan installateurs die 50+ projecten/jaar doen."
+> "Stel je voor: Een metaalbedrijf koopt een €80k CNC machine. Zonder ons betalen ze €80k. Met SubsidieMatch: EIA €8k + optimalisatie €2k = €10k besparing. Kost hun X per scan of Y per maand. Wij verdienen via SaaS model aan installateurs die 50+ projecten/jaar doen."
 
 ---
 
