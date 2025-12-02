@@ -6,8 +6,9 @@
 
 SubsidieMatch is an AI-powered subsidie-matching platform for Dutch SMEs (MKB). It scans PDF quotes and automatically identifies applicable subsidies (EIA, ISDE, MIA/Vamil), calculates amounts, and suggests arbitrage opportunities to maximize subsidy returns.
 
-**Status**: Pre-launch / MVP Development
-**Tech Stack**: FastAPI + Claude Sonnet 4.5 + Instructor + Pydantic
+**Status**: MVP Development - Database & Schema Complete (Dec 2, 2025)
+**Tech Stack**: FastAPI + Claude Sonnet 4.5 + Instructor + Pydantic v2
+**Database**: JSON files (in-memory, 32ms load time, <1ms searches)
 **Target**: 100 B2B customers (installers/accountants) by Year 1
 **Revenue Model**: B2B SaaS (149-999 EUR/month)
 
@@ -35,9 +36,10 @@ SubsidieMatch is an AI-powered subsidie-matching platform for Dutch SMEs (MKB). 
 - **Backend**: FastAPI (Python 3.11+)
 - **LLM**: Claude Sonnet 4.5 via Anthropic API
 - **Structured Extraction**: Instructor library + Pydantic v2
-- **Database**: PostgreSQL (planned)
+- **Database**: JSON files with in-memory indexes (7,372 entries, 32ms load, <1ms search)
 - **File Storage**: Local JSON files (MVP), S3 later
 - **Deployment**: Railway/Render (MVP), AWS (scale)
+- **PostgreSQL**: Not needed for MVP (will add for user accounts in Phase 2)
 
 ### Project Structure
 ```
@@ -52,9 +54,16 @@ subsidie_matcher/
 │       └── mia_vamil_2025.json     # MIA/Vamil codes
 ├── ruwe_data/              # Raw PDFs and Excel files
 ├── scripts/                # Data extraction scripts
+│   ├── extract_eia_text_based.py      # EIA extraction (COMPLETE)
+│   ├── extract_mia_text_based.py      # MIA extraction (COMPLETE)
+│   └── test_api_key.py                # API key validation
 ├── services/               # Core business logic
+│   ├── subsidy_database.py            # In-memory database (COMPLETE)
+│   └── subsidy_matcher.py             # Matching engine (TODO)
 ├── models/                 # Pydantic schemas
+│   └── subsidy_schemas.py             # Complete models (COMPLETE)
 └── tests/
+    └── test_database.py               # Database tests (ALL PASSING)
 ```
 
 ---
@@ -295,20 +304,53 @@ See `requirements.txt`:
 When you (Claude) start a new session:
 
 1. **Project**: AI subsidy matcher for Dutch SMEs
-2. **Current Phase**: MVP development
-3. **Data Status**: EIA + ISDE complete, MIA extracting
-4. **Next Step**: Implement core features (PDF parser, matcher, arbitrage)
-5. **Style**: No emojis, concise, technical, objective
+2. **Current Phase**: MVP development - Database & Schema Complete
+3. **Data Status**: ALL COMPLETE (EIA + ISDE + MIA/Vamil)
+4. **Infrastructure Status**: COMPLETE (Database, Schemas, Tests all passing)
+5. **Next Step**: Implement subsidy matcher engine
+6. **Style**: No emojis, concise, technical, objective
 
 **The user's goal**: Build a working MVP that can scan quotes and find subsidies in 30 seconds, targeting Dutch installers and accountants.
 
 ---
 
+## Current Development Status (December 2, 2025)
+
+### COMPLETED
+
+**Phase 1: Data Extraction (COMPLETE)**
+- EIA 2025: 184 codes extracted and verified
+- ISDE 2025: 6,895 meldcodes across 4 categories
+- MIA/Vamil 2025: 293 codes extracted
+- All data quality verified and corrected
+
+**Phase 2: Database & Schema (COMPLETE)**
+- Pydantic models for all entities ([models/subsidy_schemas.py](models/subsidy_schemas.py))
+- In-memory database with search indexes ([services/subsidy_database.py](services/subsidy_database.py))
+- Performance: 32ms load time, <1ms search time
+- All tests passing ([tests/test_database.py](tests/test_database.py))
+
+### IN PROGRESS
+
+**Phase 3: Core Features (NEXT)**
+1. Subsidy Matcher Engine - Match equipment to subsidies
+2. PDF Quote Parser - Extract equipment from quotes using Claude
+3. Arbitrage Engine - Find better subsidy opportunities
+
+### File Status
+
+- [models/subsidy_schemas.py](models/subsidy_schemas.py) - COMPLETE (479 lines)
+- [services/subsidy_database.py](services/subsidy_database.py) - COMPLETE (365 lines)
+- [tests/test_database.py](tests/test_database.py) - COMPLETE (all tests passing)
+- services/subsidy_matcher.py - TODO (next task)
+
+---
+
 ## Version Info
 
-**Last Updated**: December 2, 2025
-**Current Status**: Data extraction phase complete (EIA + ISDE), ready for implementation
-**Next Milestone**: Implement PDF parser and subsidy matcher
+**Last Updated**: December 2, 2025 - 20:00
+**Current Status**: Database & schema implementation complete, ready for matcher engine
+**Next Milestone**: Implement subsidy matcher engine with test cases
 
 ---
 
