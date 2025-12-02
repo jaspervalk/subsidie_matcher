@@ -1,0 +1,1664 @@
+{
+  "version": "2025",
+  "source": "Brochure-EIA-Energielijst2025.pdf",
+  "budget": 431000000,
+  "updated": "2025-01-01",
+  "codes": [
+    {
+      "code": "210000",
+      "title": "Energieprestatieverbetering van bestaande bedrijfsgebouwen",
+      "description": "Bestemd voor: het verbeteren van de energieprestatie van bestaande bedrijfsgebouwen zoals vastgelegd in ISSO 75.1 (Energieprestatie Utiliteitsgebouwen), en bestaande uit: een pakket van energie-investeringen gebaseerd op een Energieprestatie advies utiliteit EP-U MWA, zoals vastgelegd in ISSO 75.2 (Maatwerkadvies Utiliteitsgebouwen).",
+      "category": "A",
+      "chapter": "Energielabel verbeteren",
+      "subsidy_percentage": 0.4,
+      "page": 18
+    },
+    {
+      "code": "210001",
+      "title": "Energieprestatieverbetering van bestaande bedrijfsgebouwen (Renovatiestandaard)",
+      "description": "Bestemd voor: het verbeteren van de energieprestatie van bestaande bedrijfsgebouwen, zoals vastgelegd in ISSO 75.1 (Energieprestatie Utiliteitsgebouwen), en bestaande uit: een pakket van energie-investeringen gebaseerd op een Energieprestatie advies utiliteit EP-U MWA, zoals vastgelegd in ISSO 75.2 (Maatwerkadvies Utiliteitsgebouwen).",
+      "category": "A",
+      "chapter": "Energielabel verbeteren",
+      "subsidy_percentage": 0.4,
+      "page": 19
+    },
+    {
+      "code": "211102",
+      "title": "Warmtepompboiler",
+      "description": "Bestemd voor: het nuttig aanwenden van warmte voor de verwarming van tapwater in bedrijfsgebouwen of het collectief verwarmen van tapwater voor woningen, en bestaande uit: elektrisch gedreven warmtepompboiler met een COP ≥ 3,0 gemeten conform NEN-EN 16147:2023, opslagvat, (eventueel) bodemwarmtewisselaar of grondwaterbron.",
+      "category": "A",
+      "chapter": "Verwarmen",
+      "subsidy_percentage": 0.4,
+      "page": 20
+    },
+    {
+      "code": "211103",
+      "title": "Warmtepomp (bodemgerelateerd)",
+      "description": "Bestemd voor: het verwarmen van bestaande bedrijfsgebouwen of het collectief verwarmen van bestaande woningen, en bestaande uit: elektrisch gedreven warmtepomp op basis van een gesloten bodembron met een seizoensgebonden energie-efficiëntie van ruimteverwarming SCOP ≥ 5,2 bij stookseizoen 'A' = average, gemeten conform NEN-EN 14825:2022.",
+      "category": "A",
+      "chapter": "Verwarmen",
+      "subsidy_percentage": 0.4,
+      "page": 21
+    },
+    {
+      "code": "211104",
+      "title": "Warmtepomp (luchtgerelateerd)",
+      "description": "Bestemd voor: het verwarmen van bestaande bedrijfsgebouwen of het collectief verwarmen van bestaande woningen, en bestaande uit: elektrisch gedreven lucht/water warmtepomp met een vermogen van ≤70kW met een seizoensgebonden energie-efficiëntie van ruimteverwarming SCOP ≥ 4,6 voor de buitenunit bij nominaal thermisch vermogen en een stookseizoen 'A' = average, gemeten conform NEN-EN 14825:2022.",
+      "category": "A",
+      "chapter": "Verwarmen",
+      "subsidy_percentage": 0.4,
+      "page": 21
+    },
+    {
+      "code": "210208",
+      "title": "Adiabatische luchtkoeling in stallen",
+      "description": "Bestemd voor: het onder hoge druk vernevelen van water met een maximale druppelgrootte van 10 micrometer ten behoeve van het adiabatisch koelen van de stal, en bestaande uit: hogedrukpompunit, afgaande hogedrukleidingen inclusief nozzles.",
+      "category": "A",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 22
+    },
+    {
+      "code": "210306",
+      "title": "Energiezuinige ventilator in bewaarloodsen",
+      "description": "Bestemd voor: mechanische ventilatie- of luchtcirculatiesystemen, in bewaarloodsen voor agrarische producten. en bestaande uit: direct aangedreven axiaal ventilator, waarvan de efficiëntiegraad (N) conform efficiëntiecategorie A, C (statisch) ten minste 57 is of conform efficiëntiecategorie B, D (totaal) ten minste 75 is.",
+      "category": "A",
+      "chapter": "Ventileren",
+      "subsidy_percentage": 0.4,
+      "page": 22
+    },
+    {
+      "code": "210800",
+      "title": "Luchtbehandelingskast voor nieuwe bedrijfsgebouwen",
+      "description": "Bestemd voor: het ventileren en het koelen en/of verwarmen van nieuwe bedrijfsgebouwen door het benutten van koude of warmte uit de afzuiglucht, en bestaande uit: luchtbehandelingskast, met een luchtdebiet van meer dan 1.000 m³ per uur, voorzien van een warmtewisselaar ten behoeve van warmteterugwinning met een thermisch rendement (η) van minimaal 83%.",
+      "category": "A",
+      "chapter": "Ventileren",
+      "subsidy_percentage": 0.4,
+      "page": 23
+    },
+    {
+      "code": "210801",
+      "title": "Luchtbehandelingskast voor bestaande bedrijfsgebouwen",
+      "description": "Bestemd voor: het ventileren en het koelen en/of verwarmen van bestaande bedrijfsgebouwen door het benutten van koude of warmte uit de afzuiglucht, en bestaande uit: luchtbehandelingskast, met een luchtdebiet van meer dan 1.000 m³ per uur, voorzien van een warmtewisselaar ten behoeve van warmteterugwinning met een thermisch rendement (η) van minimaal 78%.",
+      "category": "A",
+      "chapter": "Ventileren",
+      "subsidy_percentage": 0.4,
+      "page": 23
+    },
+    {
+      "code": "210806",
+      "title": "Koude- of warmteterugwinningssysteem uit ventilatielucht bij veestallen",
+      "description": "Bestemd voor: het koelen of verwarmen van veestallen door het benutten van koude of warmte in de afzuiglucht, en bestaande uit: luchtbehandelingskast met warmtewisselaar met een rendement van minimaal 78% gemeten conform NEN-EN 13053:2019.",
+      "category": "A",
+      "chapter": "Ventileren",
+      "subsidy_percentage": 0.4,
+      "page": 24
+    },
+    {
+      "code": "210807",
+      "title": "Luchtbehandelingskast voor zwembaden",
+      "description": "Bestemd voor: ontvochtigen, ventileren en verwarmen van zwembaden, en bestaande uit: een luchtbehandelingskast, voorzien van een warmtewisselaar ten behoeve van warmteterugwinning met een thermisch rendement (η) van minimaal 73%, een geïntegreerde warmtepomp, automatische regeling.",
+      "category": "A",
+      "chapter": "Ventileren",
+      "subsidy_percentage": 0.4,
+      "page": 24
+    },
+    {
+      "code": "210402",
+      "title": "Isolerende beglazing voor bedrijfsgebouwen",
+      "description": "Bestemd voor: beglazing in buitengevel- of dakconstructies van bedrijfsgebouwen, en bestaande uit: meervoudig glas met een vacuüm of gasgevulde spouw met een warmtedoorlatingscoëfficiënt: (U) van maximaal 0,7 W/m2 K gemeten conform NEN-EN 673:2011.",
+      "category": "A",
+      "chapter": "Isoleren/afschermen",
+      "subsidy_percentage": 0.4,
+      "page": 25
+    },
+    {
+      "code": "210403",
+      "title": "Isolatie voor bestaande constructies",
+      "description": "Bestemd voor: de verbetering van de isolatie van bestaande vloeren, daken, of plafonds van bedrijfsgebouwen, anders dan koel- of vriesruimten, en bestaande uit: isolatiemateriaal waarbij de som van de warmteweerstand van de lagen R = Σ(Rm) = Σ(d/λ) toeneemt met ten minste 2,00 m2 K/W t.o.v. de oude situatie.",
+      "category": "A",
+      "chapter": "Isoleren/afschermen",
+      "subsidy_percentage": 0.4,
+      "page": 25
+    },
+    {
+      "code": "210405",
+      "title": "Faseovergangsmateriaal",
+      "description": "Bestemd voor: het verminderen van het energiegebruik voor het koelen of verwarmen van bedrijfsgebouwen, en bestaande uit: faseovergangsmateriaal met een gedefinieerd overgangstraject en een capaciteit in het overgangstraject van minimaal 100 kJ/kg.",
+      "category": "A",
+      "chapter": "Isoleren/afschermen",
+      "subsidy_percentage": 0.4,
+      "page": 26
+    },
+    {
+      "code": "210406",
+      "title": "Snelloopdeur voor koel- of vriescellen",
+      "description": "Bestemd voor: snel openen en afsluiten van een doorgang in een koel- of vriescel, en bestaande uit: snelloopdeur met standaard thermisch gescheiden isoleerlamellen met een warmtedoorlatingscoëfficiënt van maximaal 0,3 W/m²K. De openingssnelheid van de deur is ten minste 1,50 m/s.",
+      "category": "A",
+      "chapter": "Isoleren/afschermen",
+      "subsidy_percentage": 0.4,
+      "page": 26
+    },
+    {
+      "code": "210407",
+      "title": "Luchtdeur voor gekoelde ruimten",
+      "description": "Bestemd voor: het verminderen van energieverliezen bij het openen van deuren bij gekoelde ruimten, en bestaande uit: luchtdeur met een laminaire luchtstroom voor de deuropening, automatische schakeling op de stand van de deur.",
+      "category": "A",
+      "chapter": "Isoleren/afschermen",
+      "subsidy_percentage": 0.4,
+      "page": 26
+    },
+    {
+      "code": "210408",
+      "title": "Isolatiesysteem voor zwembadglijbanen",
+      "description": "Bestemd voor: isoleren van een waterglijbaan van een zwembad, en bestaande uit: isolerende laag met een warmteweerstand van ten minste R = 2,50 m2K/W.",
+      "category": "A",
+      "chapter": "Isoleren/afschermen",
+      "subsidy_percentage": 0.4,
+      "page": 26
+    },
+    {
+      "code": "210508",
+      "title": "LED-belichtingssysteem voor podium- of theaterbelichting",
+      "description": "Bestemd voor: podium- of theaterbelichting, en bestaande uit: spot- en/of floodlightarmaturen,DMX driver. De powerfactor van het belichtingssysteem moet ten minste 0,90 bedragen.",
+      "category": "A",
+      "chapter": "Verlichten",
+      "subsidy_percentage": 0.4,
+      "page": 26
+    },
+    {
+      "code": "210602",
+      "title": "Energieprestatieverbetering van bestaande liften",
+      "description": "Bestemd voor: het verbeteren van de energieprestatie van liften in bestaande liftschachten, en bestaande uit: een pakket aan energiezuinige maatregelen waardoor een lift gaat voldoen aan de energieprestatie-eisen van energielabel A van NEN-EN-ISO 25745-2:2015 (Cor. 2016-03).",
+      "category": "A",
+      "chapter": "Aandrijven",
+      "subsidy_percentage": 0.4,
+      "page": 26
+    },
+    {
+      "code": "210707",
+      "title": "Droog- en verwarmingssysteem voor ventilatielucht in bewaarloodsen",
+      "description": "Bestemd voor: het drogen van akkerbouwproducten, in bewaarloodsen, en bestaande uit: warmtepomp werkend met een halogeenvrij koudemiddel, direct werkende verdamper (eventueel) met CO of NH als koudedrager in de ingaande luchtstroom, (eventueel) warmtewisselaar in de uitgaande luchtstroom, (eventueel) ventilator, (eventueel) regeling.",
+      "category": "W",
+      "chapter": "Drogen/bevochtigen",
+      "subsidy_percentage": 0.4,
+      "page": 27
+    },
+    {
+      "code": "210803",
+      "title": "Systeem voor benutting van afvalwarmte",
+      "description": "Bestemd voor: het uitkoppelen bij de bron en het transporteren van afvalwarmte voor het lokaal verwarmen van gebouwen, en bestaande uit: warmtewisselaar bij de afvalwarmtebron, afvalwarmtetransportleiding, (eventueel) warmtewisselaar tussen afvalwarmtetransportleiding en afgiftenet. Afgiftenetten komen niet in aanmerking.",
+      "category": "W",
+      "chapter": "Energiehergebruik",
+      "subsidy_percentage": 0.4,
+      "page": 27
+    },
+    {
+      "code": "210906",
+      "title": "Besparingssysteem voor klimaatinstallaties",
+      "description": "Bestemd voor: het verminderen van het energiegebruik van klimaatinstallaties in of bij bestaande bedrijfsgebouwen door het toepassen van een (individueel) instelbare ruimteregelaar voor het schakelen, afhankelijk van automatische aan- of afwezigheidsdetectie, en bestaande uit: individuele ruimteregelaar met een (bewegings)sensor, (eventueel) regelunit, (eventueel) individuele ruimte regelklep.",
+      "category": "W",
+      "chapter": "Beheer/regelen",
+      "subsidy_percentage": 0.4,
+      "page": 27
+    },
+    {
+      "code": "211001",
+      "title": "HR-pomp",
+      "description": "Bestemd voor: klimaatinstallaties in bedrijfsgebouwen, en bestaande uit: a. stand-alone natloper-circulatiepomp tot 2.500 Watt met een EEI < 0,23 gemeten conform de methode zoals weergegeven in bijlage II van de Verordening (EG) Nr. 641/2009 van de Commissie, geïntegreerde toerenregeling; b. stand-alone inline droogloper circulatiepomp voorzien van een 2-, 4- of 6-polige elektromotor met een nominaal vermogen kleiner dan 75kW die voldoet aan de IE4 efficiency-klasse gemeten conform NEN-EN-IEC 60034-30-1:2014.",
+      "category": "W",
+      "chapter": "Overige",
+      "subsidy_percentage": 0.4,
+      "page": 28
+    },
+    {
+      "code": "320000",
+      "title": "Technische voorzieningen voor energiebesparing bij bestaande processen",
+      "description": "De terugverdientijd van de investering moet ten minste 5 jaar, maar niet meer dan 15 jaar bedragen. Als referentie dient bij bestaande processen het historisch energiegebruik. De energiebesparing moet aantoonbaar het directe gevolg zijn van het gebruik van het bedrijfsmiddel waarin geïnvesteerd is.",
+      "category": "W",
+      "chapter": "Processen",
+      "subsidy_percentage": 0.4,
+      "page": 31
+    },
+    {
+      "code": "420000",
+      "title": "Technische voorzieningen voor energiebesparing bij nieuwe processen",
+      "description": "De terugverdientijd van de investering moet ten minste 5 jaar, maar niet meer dan 15 jaar bedragen. Als referentie bij nieuwe processen dient het in de betreffende branche gemiddeld gangbare energiegebruik bij soortgelijke technische voorzieningen voor vergelijkbare nieuwe processen.",
+      "category": "W",
+      "chapter": "Processen",
+      "subsidy_percentage": 0.4,
+      "page": 33
+    },
+    {
+      "code": "220115",
+      "title": "Hoogtemperatuur tapwaterboiler",
+      "description": "Bestemd voor: de productie van warm tapwater, en bestaande uit: warm tapwaterboiler voorzien van een warmteopwekker met een gebruiksrendement op tapwater van ten minste 75% op onderwaarde gas, waarbij een deel van het warm tapwater wordt doorverwarmd naar ten minste 80°C, geïntegreerde warmtewisselaar aangesloten op een zonnecollector en/of warmtewisselaar tussen de compressor en condensor van de koelmachine van de melkkoeltank.",
+      "category": "B",
+      "chapter": "Verwarmen",
+      "subsidy_percentage": 0.4,
+      "page": 35
+    },
+    {
+      "code": "220122",
+      "title": "Elektrische bakcarrousel",
+      "description": "Bestemd voor: het bereiden van maaltijden in horeca of grootkeukens, en bestaande uit: ronddraaiende bakcarrousel met meerdere elektrische bakplaten voorzien van bovenliggende infraroodbrander.",
+      "category": "B",
+      "chapter": "Verwarmen",
+      "subsidy_percentage": 0.4,
+      "page": 35
+    },
+    {
+      "code": "220123",
+      "title": "Multifunctioneel kook- en baktoestel",
+      "description": "Bestemd voor: het bereiden van maaltijden in horeca en grootkeukens, en bestaande uit: elektrisch toestel dat geschikt is voor zowel koken, bakken, braden en frituren, geïntegreerd energiemanagementsysteem, (eventueel) noodzakelijke aanpassing van de elektriciteitsaansluiting.",
+      "category": "B",
+      "chapter": "Verwarmen",
+      "subsidy_percentage": 0.4,
+      "page": 35
+    },
+    {
+      "code": "221103",
+      "title": "Warmtepomp",
+      "description": "Bestemd voor: het nuttig aanwenden van warmte voor processen, en bestaande uit: a. elektrisch gedreven warmtepomp op basis van een halogeenvrij koudemiddel waarbij, bij een temperatuurlift (dT) tussen brontemperatuur (intrede temperatuur verdamper) en afgiftetemperatuur (uittredetemperatuur condensor), de volgende COP-eis geldt: - COP ≥ 4,0 bij dT tot +40 °C, - COP ≥ 3,5 bij dT van +40 °C tot +50 °C, - COP ≥ 3,0 bij dT van +50 °C tot +60 °C, - COP ≥ 2,5 bij dT van +60 °C tot +70 °C, - COP ≥ 2,3 bij dT van +70 °C tot +80 °C, - COP ≥ 1,5 bij dT ≥ 80 °C",
+      "category": "W",
+      "chapter": "Verwarmen",
+      "subsidy_percentage": 0.4,
+      "page": 35
+    },
+    {
+      "code": "220212",
+      "title": "Energiezuinige koel- en/of vriesinstallatie",
+      "description": "Bestemd voor: het koelen en/of vriezen van ruimten of processen tot maximaal + 16 °C, en bestaande uit: a. een subkritische koel- en/of vriesinstallatie met een koelvermogen < 100 kW en op basis van een halogeenvrij koudemiddel, met: - ten minste één frequentiegeregelde of elektronisch toerengeregelde compressor; - een luchtgekoelde, watergekoelde of verdampingscondensor, ontworpen op maximaal 10 K temperatuurverschil tussen condensatietemperatuur en omgevingstemperatuur, met een specifiek opgenomen vermogen van de condensor van maximaal 21 W per kW condensorvermogen; - een weersafhankelijke regeling van de condensatiedruk tot + 13 °C buitenluchttemperatuur; - een elektronische expansieregeling (bij een direct expansiesysteem); - verdamper, exclusief koel- en/of vriestunnel en koel- en/of vriescellen.",
+      "category": "W",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 36
+    },
+    {
+      "code": "220213",
+      "title": "Heetgasontdooisysteem",
+      "description": null,
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220215",
+      "title": "Energiezuinige professionele koel- of vrieskast",
+      "description": null,
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220216",
+      "title": "Energie-efficiënte melkkoeling",
+      "description": null,
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220218",
+      "title": "Hogedrukverneveling in tuinbouwkassen",
+      "description": null,
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220219",
+      "title": "Vrije koeling van serverruimten of bestaande datacenters",
+      "description": null,
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220221",
+      "title": "Energiezuinige rackkoeling",
+      "description": null,
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220223",
+      "title": "Transkritische CO₂ koel- en/of vriesinstallatie",
+      "description": null,
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220225",
+      "title": "Energiezuinige koel- en/of vriescondensoreenheid",
+      "description": null,
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220227",
+      "title": "Decentraal koelsysteem (hydroloop) met een totaal koelvermogen van maximaal 50 kW",
+      "description": null,
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220228",
+      "title": "Energiezuinige drankenkoeler",
+      "description": null,
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220229",
+      "title": "Vacuümkoeler voor bakkerijen",
+      "description": null,
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220304",
+      "title": "Systeem voor ontvochtiging en/of koelen en verwarmen van tuinbouwkassen",
+      "description": null,
+      "category": "B",
+      "chapter": "Ventileren",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220402",
+      "title": "Kasdek",
+      "description": null,
+      "category": "B",
+      "chapter": "Isoleren/afschermen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220403",
+      "title": "Horizontale energieschermen",
+      "description": null,
+      "category": "B",
+      "chapter": "Isoleren/afschermen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220408",
+      "title": "Faseovergangsmateriaal voor processen",
+      "description": null,
+      "category": "B",
+      "chapter": "Isoleren/afschermen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220409",
+      "title": "Isolatie voor bestaande procesinstallaties",
+      "description": null,
+      "category": "B",
+      "chapter": "Isoleren/afschermen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220503",
+      "title": "Belichtingssysteem voor tuinbouwgewassen",
+      "description": null,
+      "category": "B",
+      "chapter": "Belichten",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220602",
+      "title": "HR-elektromotor",
+      "description": null,
+      "category": "B",
+      "chapter": "Aandrijven",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220701",
+      "title": "Energiezuinige wasdroger",
+      "description": null,
+      "category": "B",
+      "chapter": "Drogen/bevochtigen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "220720",
+      "title": "Energiezuinige krattendroger",
+      "description": null,
+      "category": "B",
+      "chapter": "Drogen/bevochtigen",
+      "subsidy_percentage": 0.4,
+      "page": 29
+    },
+    {
+      "code": "221102",
+      "title": "Organic Rankine Cycle of Kalinacyclus",
+      "description": null,
+      "category": "B",
+      "chapter": "Energiehergebruik",
+      "subsidy_percentage": 0.4,
+      "page": 30
+    },
+    {
+      "code": "220909",
+      "title": "Energiezuinige klimaatregeling in tuinbouwkassen",
+      "description": null,
+      "category": "B",
+      "chapter": "Beheer/regelen",
+      "subsidy_percentage": 0.4,
+      "page": 30
+    },
+    {
+      "code": "220913",
+      "title": "Intelligent lokaal warmtenetwerk",
+      "description": null,
+      "category": "B",
+      "chapter": "Beheer/regelen",
+      "subsidy_percentage": 0.4,
+      "page": 30
+    },
+    {
+      "code": "221220",
+      "title": "Toerengeregelde vacuümpomp voor melkwinningsinstallaties",
+      "description": null,
+      "category": "B",
+      "chapter": "Overig",
+      "subsidy_percentage": 0.4,
+      "page": 30
+    },
+    {
+      "code": "221221",
+      "title": "Hoogfrequent hoogrendementslader voor tractiebatterijen",
+      "description": null,
+      "category": "B",
+      "chapter": "Overig",
+      "subsidy_percentage": 0.4,
+      "page": 30
+    },
+    {
+      "code": "221225",
+      "title": "Mobiele compressed natural gas (CNG) hogedrukreiniger",
+      "description": null,
+      "category": "B",
+      "chapter": "Overig",
+      "subsidy_percentage": 0.4,
+      "page": 30
+    },
+    {
+      "code": "221226",
+      "title": "Energieprestatieverbetering in de grootkeukenapparatuur",
+      "description": null,
+      "category": "B",
+      "chapter": "Overig",
+      "subsidy_percentage": 0.4,
+      "page": 30
+    },
+    {
+      "code": "221227",
+      "title": "Watertoevoersysteem voor het beregenen van gewassen op landbouwgrond",
+      "description": null,
+      "category": "B",
+      "chapter": "Overig",
+      "subsidy_percentage": 0.4,
+      "page": 30
+    },
+    {
+      "code": "221228",
+      "title": "Beregeningsboom met lage waterdruk voor het beregenen van gewassen",
+      "description": null,
+      "category": "B",
+      "chapter": "Overig",
+      "subsidy_percentage": 0.4,
+      "page": 30
+    },
+    {
+      "code": "221229",
+      "title": "Elektrisch aangedreven voeraanschuifrobot",
+      "description": null,
+      "category": "B",
+      "chapter": "Overig",
+      "subsidy_percentage": 0.4,
+      "page": 30
+    },
+    {
+      "code": "221230",
+      "title": "Installatie voor CO winning uit buitenlucht",
+      "description": null,
+      "category": "B",
+      "chapter": "Overig",
+      "subsidy_percentage": 0.4,
+      "page": 30
+    },
+    {
+      "code": "221231",
+      "title": "Fiber lasersnijmachine",
+      "description": null,
+      "category": "B",
+      "chapter": "Overig",
+      "subsidy_percentage": 0.4,
+      "page": 30
+    },
+    {
+      "code": "221232",
+      "title": "Rugvorminrichting voor aardappelruggen",
+      "description": null,
+      "category": "B",
+      "chapter": "Overig",
+      "subsidy_percentage": 0.4,
+      "page": 30
+    },
+    {
+      "code": "270202",
+      "title": "Warmtenetten",
+      "description": null,
+      "category": null,
+      "chapter": null,
+      "subsidy_percentage": 0.4,
+      "page": 27
+    },
+    {
+      "code": "270101",
+      "title": "Elektrische ovens",
+      "description": null,
+      "category": null,
+      "chapter": null,
+      "subsidy_percentage": 0.4,
+      "page": 35
+    },
+    {
+      "code": "250101",
+      "title": "Zonnecollector",
+      "description": null,
+      "category": null,
+      "chapter": null,
+      "subsidy_percentage": 0.4,
+      "page": 35
+    },
+    {
+      "code": "220213",
+      "title": "Heetgasontdooisysteem",
+      "description": "Bestemd voor: het direct of indirect ontdooien van verdampers van koel- of vriesinstallaties met warmte uit het persgas van de koel- of vriesinstallatie",
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 37
+    },
+    {
+      "code": "220215",
+      "title": "Energiezuinige professionele koel- of vrieskast",
+      "description": "Bestemd voor: het koelen van producten waarbij de producttemperatuur continu wordt gehandhaafd tussen -1 °C en +5 °C of het vriezen van producten waarbij de producttemperatuur continu wordt gehandhaafd beneden -15 °C",
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 37
+    },
+    {
+      "code": "220216",
+      "title": "Energie-efficiënte melkkoeling",
+      "description": "Bestemd voor: het koelen van melk en terugwinnen van warmte uit melk waarbij de onttrokken warmte wordt benut",
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 38
+    },
+    {
+      "code": "220218",
+      "title": "Hogedrukverneveling in tuinbouwkassen",
+      "description": "Bestemd voor: het onder hoge druk vernevelen van water met een maximale druppelgrootte van 15 micrometer ten behoeve van het adiabatisch koelen van de kas",
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 38
+    },
+    {
+      "code": "220219",
+      "title": "Vrije koeling van serverruimten of bestaande datacenters",
+      "description": "Bestemd voor: koeling van nieuwe of bestaande serverruimten of bestaande datacenters door tot een buitentemperatuur van minimaal 22 °C gebruik te maken van 100% vrije koeling en gescheiden warme en koude luchtstromen",
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 38
+    },
+    {
+      "code": "220221",
+      "title": "Energiezuinige rackkoeling",
+      "description": "Bestemd voor: het koelen van in racks opgestelde ICT-apparatuur",
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 38
+    },
+    {
+      "code": "220223",
+      "title": "Transkritische CO₂ koel- en/of vriesinstallatie",
+      "description": "Bestemd voor: het koelen en/of vriezen van ruimten of processen tot maximaal + 16 °C",
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 38
+    },
+    {
+      "code": "220225",
+      "title": "Energiezuinige koel- en/of vriescondensoreenheid",
+      "description": "Bestemd voor: het koelen en/of vriezen van ruimtes of processen tot maximaal + 16 °C",
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 39
+    },
+    {
+      "code": "220227",
+      "title": "Decentraal koelsysteem (hydroloop) met een totaal koelvermogen van maximaal 50 kW",
+      "description": "Bestemd voor: het koelen van producten in meubels en/of cellen tot maximaal + 16 °C",
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 40
+    },
+    {
+      "code": "220228",
+      "title": "Energiezuinige drankenkoeler",
+      "description": "Bestemd voor: het inkoelen en verkopen van verpakte dranken in de temperatuurklasse K4 (+9 °C / -1 °C) met een Energy Efficiency Index (EEI) kleiner dan 50",
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 41
+    },
+    {
+      "code": "220229",
+      "title": "Vacuümkoeler voor bakkerijen",
+      "description": "Bestemd voor: het onder vacuüm garen en afkoelen van bakkerijproducten in een gesloten kamer",
+      "category": "B",
+      "chapter": "Koelen/vriezen",
+      "subsidy_percentage": 0.4,
+      "page": 41
+    },
+    {
+      "code": "220304",
+      "title": "Systeem voor ontvochtiging en/of koelen en verwarmen van tuinbouwkassen",
+      "description": "Bestemd voor: het ontvochtigen van de kas met een gecontroleerd mengsel van lucht van boven het energiescherm en lucht van onder het energiescherm",
+      "category": "B",
+      "chapter": "Ventileren",
+      "subsidy_percentage": 0.4,
+      "page": 41
+    },
+    {
+      "code": "220402",
+      "title": "Kasdek",
+      "description": "Bestemd voor: het beschermen van gewassen door een tuinbouwkas waarvan het kasdek voorzien is van lichtdoorlatend materiaal met een betere isolatiewaarde dan enkellaags glas",
+      "category": "B",
+      "chapter": "Isoleren/afschermen",
+      "subsidy_percentage": 0.4,
+      "page": 42
+    },
+    {
+      "code": "220403",
+      "title": "Horizontale energieschermen",
+      "description": "Bestemd voor: het verminderen van het warmteverlies in tuinbouwkassen door het aanbrengen van horizontaal beweegbare energieschermen aan de binnenzijde van de lichtdoorlatende gebouwschil",
+      "category": "B",
+      "chapter": "Isoleren/afschermen",
+      "subsidy_percentage": 0.4,
+      "page": 42
+    },
+    {
+      "code": "220408",
+      "title": "Faseovergangsmateriaal voor processen",
+      "description": "Bestemd voor: het verminderen van het energiegebruik voor het koelen of verwarmen van ruimten of processen",
+      "category": "B",
+      "chapter": "Isoleren/afschermen",
+      "subsidy_percentage": 0.4,
+      "page": 42
+    },
+    {
+      "code": "220409",
+      "title": "Isolatie voor bestaande procesinstallaties",
+      "description": "Bestemd voor: het aanbrengen of vervangen van isolatie op bestaande procesinstallaties ten behoeve van thermische isolatie, anders dan koel- of vriesprocessen",
+      "category": "B",
+      "chapter": "Isoleren/afschermen",
+      "subsidy_percentage": 0.4,
+      "page": 43
+    },
+    {
+      "code": "220503",
+      "title": "Belichtingssysteem voor tuinbouwgewassen",
+      "description": "Bestemd voor: het vervangen van een bestaand belichtingssysteem voor het belichten van tuinbouwgewassen in tuinbouwkassen of in daglichtdichte ruimten",
+      "category": "B",
+      "chapter": "Belichten",
+      "subsidy_percentage": 0.4,
+      "page": 44
+    },
+    {
+      "code": "220602",
+      "title": "HR-elektromotor",
+      "description": "elektromotor, ontworpen voor rechtstreeks aansluiten op het elektriciteitsnet",
+      "category": "B",
+      "chapter": "Aandrijven",
+      "subsidy_percentage": 0.4,
+      "page": 44
+    },
+    {
+      "code": "220701",
+      "title": "Energiezuinige wasdroger",
+      "description": "Bestemd voor: het drogen van wasgoed",
+      "category": "B",
+      "chapter": "Drogen/bevochtigen",
+      "subsidy_percentage": 0.4,
+      "page": 44
+    },
+    {
+      "code": "220720",
+      "title": "Energiezuinige krattendroger",
+      "description": "Bestemd voor: het drogen van gewassen kunststof kratten voor voedingsmiddelen",
+      "category": "B",
+      "chapter": "Drogen/bevochtigen",
+      "subsidy_percentage": 0.4,
+      "page": 44
+    },
+    {
+      "code": "221102",
+      "title": "Organic Rankine Cycle of Kalinacyclus",
+      "description": "Bestemd voor: het omzetten van warmte naar mechanische of elektrische energie waarbij gebruikt wordt gemaakt van afvalwarmte",
+      "category": "B",
+      "chapter": "Energiehergebruik",
+      "subsidy_percentage": 0.4,
+      "page": 45
+    },
+    {
+      "code": "220909",
+      "title": "Energiezuinige klimaatregeling in tuinbouwkassen",
+      "description": "planttemperatuurcamera, sensorvruchten voor temperatuurmeting, pyrgeometer, gasanalyseapparaat",
+      "category": "B",
+      "chapter": "Beheer/regelen",
+      "subsidy_percentage": 0.4,
+      "page": 45
+    },
+    {
+      "code": "220913",
+      "title": "Intelligent lokaal warmtenetwerk",
+      "description": "Bestemd voor: het faciliteren van een intelligent lokaal warmtedistributiesysteem waarmee vraag en aanbod van diverse gebruikers en producenten op elkaar kunnen worden afgestemd",
+      "category": "B",
+      "chapter": "Beheer/regelen",
+      "subsidy_percentage": 0.4,
+      "page": 45
+    },
+    {
+      "code": "221220",
+      "title": "Toerengeregelde vacuümpomp voor melkwinningsinstallaties",
+      "description": "Bestemd voor: de vacuümvoorziening van melkwinningsinstallaties",
+      "category": "B",
+      "chapter": "Overig",
+      "subsidy_percentage": 0.4,
+      "page": 46
+    },
+    {
+      "code": "221221",
+      "title": "Hoogfrequent hoogrendementslader voor tractiebatterijen",
+      "description": "Bestemd voor: het laden van lood-zuur tractiebatterijen",
+      "category": "B",
+      "chapter": "Overig",
+      "subsidy_percentage": 0.4,
+      "page": 46
+    },
+    {
+      "code": "221225",
+      "title": "Mobiele compressed natural gas (CNG) hogedrukreiniger",
+      "description": "Bestemd voor: het reinigen van oppervlakken met warm water onder hoge druk door een mobiele CNG hogedrukreiniger met een rendement van ten minste 93% op onderwaarde",
+      "category": "B",
+      "chapter": "Overig",
+      "subsidy_percentage": 0.4,
+      "page": 46
+    },
+    {
+      "code": "221226",
+      "title": "Energieprestatieverbetering in grootkeukenapparatuur",
+      "description": "Bestemd voor: het verbeteren van de energieprestatie van grootkeukenapparatuur",
+      "category": "B",
+      "chapter": "Overig",
+      "subsidy_percentage": 0.4,
+      "page": 46
+    },
+    {
+      "code": "221227",
+      "title": "Watertoevoersysteem voor het beregenen van gewassen op landbouwgrond",
+      "description": "Bestemd voor: het beregenen van gewassen op landbouwgrond, en bestaande uit: elektrisch aangedreven pomp, frequentieregelaar, drukopnemer, (eventueel) transformator voor het verhogen van de netspanning, (eventueel) watertransportleidingen tussen de bron, pomp en de landbouwgrond, (eventueel) slanghaspel voorzien van een elektrische aandrijving voor het oprollen of rijden, (eventueel) accu voor de elektrische aandrijving van de haspel.",
+      "category": "B",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 47
+    },
+    {
+      "code": "221228",
+      "title": "Beregeningsboom met lage waterdruk voor het beregenen van gewassen",
+      "description": "Bestemd voor: het beregenen van gewassen op landbouwgrond, Bestaande uit: beregeningsboom (sproeiboom) met roterende sproeiers voor een waterdruk van maximaal 1,5 bar(g), waterdrukregelaar per sproeier, (eventueel) onderstel met wielen, (eventueel) aanpassingen aan de slanghaspel voor de beregeningsboom.",
+      "category": "B",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 47
+    },
+    {
+      "code": "221229",
+      "title": "Elektrisch aangedreven voeraanschuifrobot",
+      "description": "Bestemd voor: het aanschuiven van ruwvoer in stallen voor melkvee, en bestaande uit: autonoom werkende elektrisch aangedreven voeraanschuifrobot, laadstation, (eventueel) transponder.",
+      "category": "B",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 47
+    },
+    {
+      "code": "221230",
+      "title": "Installatie voor CO2 winning uit buitenlucht",
+      "description": "Bestemd voor: het winnen van CO2 uit de buitenlucht voor het bemesten van gewassen in tuinbouwkassen, en bestaande uit: installatie voor de adsorptie van CO2 uit buitenlucht (direct air capture), (eventueel) CO2-compressor, (eventueel) CO2-ventilator, (eventueel) CO2 transportleidingen binnen het glastuinbouwbedrijf, (eventueel) koppeling met warmtebron voor desorptie, (eventueel) CO2 buffer.",
+      "category": "B",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 47
+    },
+    {
+      "code": "221231",
+      "title": "Fiber lasersnijmachine",
+      "description": "Bestemd voor: het vervangen of ombouwen van een CO2 lasersnijmachine, en bestaande uit: de snijkop van een fiber lasersnijmachine, (eventueel) laserbron, (eventueel) koeler.",
+      "category": "B",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 47
+    },
+    {
+      "code": "221232",
+      "title": "Rugvorminrichting voor aardappelruggen",
+      "description": "Bestemd voor: het direct na het aardappelen poten, in dezelfde werkgang, vormen en aanaarden van aardappelruggen, en bestaande uit: voorziening voor het vormen en aanaarden van de ruggen gemonteerd aan de aardappelpootmachine.",
+      "category": "B",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 48
+    },
+    {
+      "code": "340000",
+      "title": "Technische voorzieningen voor energiebesparing in of aan bestaande transportmiddelen",
+      "description": "De terugverdientijd van de investering moet ten minste 5 jaar, maar niet meer dan 15 jaar bedragen. Als referentie dient bij bestaande transportmiddelen het historisch energiegebruik. De energiebesparing moet aantoonbaar het directe gevolg zijn van het gebruik van het bedrijfsmiddel waarin geïnvesteerd is.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 50
+    },
+    {
+      "code": "440000",
+      "title": "Technische voorzieningen voor energiebesparing in of aan nieuwe transportmiddelen",
+      "description": "De terugverdientijd van de investering moet ten minste 5 jaar, maar niet meer dan 15 jaar bedragen. Als referentie bij nieuwe transportmiddelen dient het in de betreffende branche gemiddeld gangbare energiegebruik bij soortgelijke technische voorzieningen voor vergelijkbare nieuwe transportmiddelen.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 52
+    },
+    {
+      "code": "241101",
+      "title": "Warmtepomp voor bestaande schepen",
+      "description": "Bestemd voor: het verwarmen van bestaande schepen, en bestaande uit: warmtepomp of ombouwset voor het geschikt maken van bestaande airconditioning voor verwarmen.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 54
+    },
+    {
+      "code": "240205",
+      "title": "Verplaatsbare schotten bij geconditioneerd transport",
+      "description": "Bestemd voor: het beperken van de koelverliezen bij gekoeld transport door het verkleinen van de gekoelde ruimte, en bestaande uit: verplaatsbare schotten die de gekoelde ruimte kunnen verkleinen.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 54
+    },
+    {
+      "code": "240208",
+      "title": "Elektrische koeling op koel/vries wegtransport",
+      "description": "a. Bestemd voor: koelen/vriezen van producten die worden vervoerd in een geïsoleerde oplegger, en bestaande uit: elektrische koelinstallatie, accu die geen lood bevat, energie-as, (eventueel) panelen of folie met fotovoltaïsche zonnecellen; b. Bestemd voor: koelen/vriezen van producten die worden vervoerd in een geïsoleerde bestelauto of geïsoleerde vrachtwagen-bakwagen, en bestaande uit: uitsluitend door elektriciteit aangedreven koelinstallatie met een halogeenvrij koudemiddel, accu die geen lood bevat, (eventueel) energie-as, (eventueel) panelen of folie met fotovoltaïsche zonnecellen.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 54
+    },
+    {
+      "code": "240609",
+      "title": "Schroefasgedreven generator voor schepen",
+      "description": "a. Bestemd voor: het opwekken van elektriciteit bij schepen door een koppeling met hydropomp op de schroefas, waarbij een hydromotor de generator aandrijft, en bestaande uit: koppeling, hydraulische pomp, hydraulische motor, generator. b. Bestemd voor: het opwekken van elektriciteit bij schepen door een koppeling op de schroefas waarbij de generator direct aangedreven wordt, en bestaande uit: koppeling, generator, frequentieomvormer.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 54
+    },
+    {
+      "code": "240612",
+      "title": "Energiezuinige scheepsmotor",
+      "description": "a. Bestemd voor: de hoofdvoortstuwing van een bestaand vaartuig voor de binnenvaart, met een nominaal motorvermogen van ten minste 250 kW, en bestaande uit: scheepsdieselmotor, waarvan het brandstofverbruik minder bedraagt dan 195 g/kWh, gemeten conform NEN-ISO 3046-1:2002, waarbij gerekend wordt met de in deze norm omschreven maximaal toegestane tolerantie van 5%.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 54
+    },
+    {
+      "code": "240614",
+      "title": "Hybride power take off (PTO) aandrijving",
+      "description": "Bestemd voor: het aandrijven van apparatuur op voertuigen voor vervoer over de weg, en bestaande uit: accu die geen lood bevat, elektromotor, regelsysteem, (eventueel) voorziening voor regeneratie van remenergie, (eventueel) vermogenselektronica.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 55
+    },
+    {
+      "code": "240617",
+      "title": "Meesturende en intrekbare achteras voor vrachtvoertuigen",
+      "description": "Bestemd voor: meesturende en intrekbare achteras voor vrachtwagen-bakwagens of trekkende voertuigen van een trekker-oplegger combinatie, en bestaande uit: samenstel van achterassen waarvan ten minste 1 achteras actief meestuurt en 1 achteras ingetrokken kan worden.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 55
+    },
+    {
+      "code": "240618",
+      "title": "Brandstofcel in transportmiddelen",
+      "description": "Bestemd voor: het opwekken van elektrische energie, waarbij een brandstof rechtstreeks wordt omgezet in elektrische energie, en bestaande uit: brandstofcel, (eventueel) brandstofreformer.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 55
+    },
+    {
+      "code": "240606",
+      "title": "Teruglevervoorziening remenergie van elektrische motoren",
+      "description": "Bestemd voor: het terugleveren van elektrische energie bij het afremmen van elektrische motoren en eventueel het beperken van aanloopstromen door vermogenselektronica, en bestaande uit: teruglevervoorziening remenergie, (eventueel) vliegwiel, (eventueel) accu die geen lood bevat, (eventueel) supercondensator, (eventueel) chopperinstallatie, (eventueel) frequentieregelaar, (eventueel) vermogenselektronica/ vermogensregeling motor.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 55
+    },
+    {
+      "code": "240607",
+      "title": "Energie-as",
+      "description": "Bestemd voor: het terugwinnen van remenergie in een oplegger of aanhanger, en bestaande uit: in de achteras ingebouwde generator, accu, (eventueel) vermogenselektronica.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 56
+    },
+    {
+      "code": "240608",
+      "title": "Turbocompound",
+      "description": "Bestemd voor: het terugwinnen van energie uit de uitlaatgassen van een vrachtwagenmotor, en bestaande uit: een achter de turbo in de uitlaatgasstroom geplaatste additionele turbine, (eventueel) regelelektronica.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 56
+    },
+    {
+      "code": "240906",
+      "title": "Bandenspanningregelsysteem",
+      "description": "a. Bestemd voor: het vanuit de cabine instellen van de meest ideale bandenspanning in banden van landbouwvoertuigen afhankelijk van waar het landbouwvoertuig zich bevindt: op het land of op de verharde weg, en bestaande uit: luchtcompressor of perslucht aansluiting, bedieningsunit, (eventueel) persluchtvoorraadtank, (eventueel) roterende persluchtaansluitingen en ventielen, (eventueel) display; b. Bestemd voor: het automatisch controleren en corrigeren van de vooraf ingestelde bandendruk van voertuigen voor het vervoer over de weg, en bestaande uit: automatische controle-unit, roterende persluchtaansluitingen, geïntegreerde ventielen, (eventueel) persluchtvoorraadtank.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 56
+    },
+    {
+      "code": "240907",
+      "title": "Cruisecontrol voor vrachtwagen",
+      "description": "Bestemd voor: aandrijving van een vrachtwagen, en bestaande uit: cruisecontrol die de transmissie aanstuurt op basis van wegenkaartinformatie en GPS-gegevens.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 56
+    },
+    {
+      "code": "241200",
+      "title": "Lichtgewicht afzetcontainer",
+      "description": "Bestemd voor: het vervoer van bulkgoederen over de weg, en bestaande uit: lichtgewicht afzetcontainer met een minimale inhoud van 15 m³, ter vervanging van een zwaardere afzetcontainer met dezelfde inhoud. De gewichtsreductie dient ten minste 20 kg per m³ inhoud te zijn.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 56
+    },
+    {
+      "code": "241201",
+      "title": "Lichtgewicht composieten kipperbak",
+      "description": "Bestemd voor: het vervoer van bulkgoederen over de weg, en bestaande uit: composieten kipperbak, (eventueel) schaarcilinder, (eventueel) kipframe.",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 56
+    },
+    {
+      "code": "241202",
+      "title": "Zijafscherming",
+      "description": "",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 57
+    },
+    {
+      "code": "241211",
+      "title": "Hydrodynamische ankerkluizen en ankers",
+      "description": "",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 57
+    },
+    {
+      "code": "241212",
+      "title": "Verlenging van een bestaand vaartuig voor de binnenvaart",
+      "description": "",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 57
+    },
+    {
+      "code": "241213",
+      "title": "Lange en zware vrachtwagen (LZV)",
+      "description": "",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 57
+    },
+    {
+      "code": "241215",
+      "title": "Energieopslag op vaartuigen",
+      "description": "",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 57
+    },
+    {
+      "code": "221221",
+      "title": "Hoogfrequent hoogrendementslader voor tractiebatterijen",
+      "description": "",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 57
+    },
+    {
+      "code": "241223",
+      "title": "Spudpaal voor een bestaand werkschip",
+      "description": "",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 58
+    },
+    {
+      "code": "241224",
+      "title": "Energieprestatieverbetering in het wegtransport",
+      "description": "",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 58
+    },
+    {
+      "code": "241225",
+      "title": "Spiegelcamera",
+      "description": "",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 58
+    },
+    {
+      "code": "241226",
+      "title": "Oplegger of aanhanger met dubbele laadvloer",
+      "description": "",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 58
+    },
+    {
+      "code": "241227",
+      "title": "Lichtgewicht velgen",
+      "description": "",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 58
+    },
+    {
+      "code": "241228",
+      "title": "Aerodynamische aanhanger",
+      "description": "",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 59
+    },
+    {
+      "code": "251115",
+      "title": "Zonnepanelen of -folie voor elektriciteitsopwekking op transportmiddelen",
+      "description": "",
+      "category": "C",
+      "chapter": "Transportmiddelen",
+      "subsidy_percentage": 0.4,
+      "page": 59
+    },
+    {
+      "code": "241202",
+      "title": "Zijafscherming",
+      "description": "Bestemd voor: het verminderen van de luchtweerstand van vrachtwagen-bakwagens, aanhangers of opleggers, en bestaande uit: dichte panelen ter volledige afsluiting van de open ruimten tussen de wielen of dichte panelen over de wielen.",
+      "category": "W",
+      "chapter": "Transport",
+      "subsidy_percentage": 0.4,
+      "page": 57
+    },
+    {
+      "code": "241211",
+      "title": "Hydrodynamische ankerkluizen en ankers",
+      "description": "Bestemd voor: het verlagen van de vaarweerstand van een vaartuig voor de binnenvaart, en bestaande uit: anker, ankerkluis.",
+      "category": "W",
+      "chapter": "Transport",
+      "subsidy_percentage": 0.4,
+      "page": 57
+    },
+    {
+      "code": "241212",
+      "title": "Verlenging van een bestaand vaartuig voor de binnenvaart",
+      "description": "Bestemd voor: het efficiënter vervoeren van lading met een bestaand vaartuig voor de binnenvaart, en bestaande uit: een constructie die tussen delen van de romp wordt gevoegd waardoor het laadvermogen van het schip wordt vergroot.",
+      "category": null,
+      "chapter": "Transport",
+      "subsidy_percentage": 0.4,
+      "page": 57
+    },
+    {
+      "code": "241213",
+      "title": "Lange en zware vrachtwagen (LZV)",
+      "description": "Bestemd voor: transport van goederen over de weg, en bestaande uit: a. dolly; b. tussenoplegger met koppelschotel.",
+      "category": "W",
+      "chapter": "Transport",
+      "subsidy_percentage": 0.4,
+      "page": 57
+    },
+    {
+      "code": "241215",
+      "title": "Energieopslag op vaartuigen",
+      "description": "Bestemd voor: het opslaan van elektriciteit uit een generator, en bestaande uit: accu die geen lood bevat met een vermogen van ten minste 10 kW en een capaciteit van ten minste 30 kWh, stroom/spanningsomvormer, regelsysteem.",
+      "category": "GEWIJZIGD",
+      "chapter": "Transport",
+      "subsidy_percentage": 0.4,
+      "page": 57
+    },
+    {
+      "code": "221221",
+      "title": "Hoogfrequent hoogrendementslader voor tractiebatterijen",
+      "description": "Bestemd voor: het laden van lood-zuur tractiebatterijen, en bestaande uit: hoogfrequent hoogrendement laadunit die de tractiebatterijen laadt met een efficiency totaalscore groter dan 24 gemeten conform het meetprotocol KEMA 74100151-CES/NET 12-3187.",
+      "category": "W",
+      "chapter": "Transport",
+      "subsidy_percentage": 0.4,
+      "page": 57
+    },
+    {
+      "code": "241223",
+      "title": "Spudpaal voor een bestaand werkschip",
+      "description": "Bestemd voor: het stabiel houden van een bestaand werkschip gedurende de uitvoering van werkzaamheden, en bestaande uit: spudpaal.",
+      "category": "W",
+      "chapter": "Transport",
+      "subsidy_percentage": 0.4,
+      "page": 58
+    },
+    {
+      "code": "241224",
+      "title": "Energieprestatieverbetering in het wegtransport",
+      "description": "Bestemd voor: het verbeteren van de energieprestatie van transportmiddelen voor het wegtransport en bestaande uit: een combinatie van voorzieningen waarbij twee of meer van de volgende onderdelen worden aangebracht op één transportmiddel: energie-as (240607), turbocompound (240608), hybride power take off (PTO) aandrijving (240614), bandenspanningregelsysteem (240906), cruisecontrol voor vrachtwagen (240907), zijafscherming (241202), spiegelcamera (241225) of lichtgewicht velgen (241227).",
+      "category": null,
+      "chapter": "Transport",
+      "subsidy_percentage": 0.4,
+      "page": 58
+    },
+    {
+      "code": "241225",
+      "title": "Spiegelcamera",
+      "description": "Bestemd voor: het reduceren van de luchtweerstand van voertuigen in het wegtransport en personenbusvervoer, en bestaande uit: aan de linker- en rechterbuitenkant van het voertuig geplaatste camera's (in plaats van buitenspiegels) in combinatie met aan de zijkant geplaatste beeldschermen in het voertuig.",
+      "category": null,
+      "chapter": "Transport",
+      "subsidy_percentage": 0.4,
+      "page": 58
+    },
+    {
+      "code": "241226",
+      "title": "Oplegger of aanhanger met dubbele laadvloer",
+      "description": "Bestemd voor: transport van goederen op pallets of rolcontainers over de weg, uitgezonderd veetransport, en bestaande uit: een oplegger of aanhanger met twee vastliggende laadvloeren met elk een minimale laadruimtehoogte van 180 cm.",
+      "category": null,
+      "chapter": "Transport",
+      "subsidy_percentage": 0.4,
+      "page": 58
+    },
+    {
+      "code": "241227",
+      "title": "Lichtgewicht velgen",
+      "description": "Bestemd voor: verminderen van het gewicht van voertuigen voor goederenwegtransport, en bestaande uit: velgen met een materiaaldichtheid lager dan 4,5 gram/cm3 op trekkers, opleggers, vrachtwagen-bakwagens of bijbehorende aanhangers.",
+      "category": null,
+      "chapter": "Transport",
+      "subsidy_percentage": 0.4,
+      "page": 58
+    },
+    {
+      "code": "241228",
+      "title": "Aerodynamische aanhanger",
+      "description": "Bestemd voor: het verminderen van de luchtweerstand door het vervangen van een gesloten aanhanger met eigen kenteken zonder aerodynamische afgeronde hoeken, en bestaande uit: volledig gesloten aanhangwagen met eigen kenteken voorzien van lichtmetalen of hardkunststof opbouw met aerodynamisch afgeronde hoeken van het frontale- en zijvlak met een minimale radius van 15 cm.",
+      "category": "W NIEUW",
+      "chapter": "Transport",
+      "subsidy_percentage": 0.4,
+      "page": 59
+    },
+    {
+      "code": "251115",
+      "title": "Zonnepanelen of -folie voor elektriciteitsopwekking op transportmiddelen",
+      "description": "Bestemd voor: het opwekken van elektrische energie uit zonlicht op transportmiddelen, en bestaande uit: panelen of folie met fotovoltaïsche zonnecellen, (eventueel) stroom/spanningsomvormer, (eventueel) accu.",
+      "category": "W",
+      "chapter": "Transport",
+      "subsidy_percentage": 0.4,
+      "page": 59
+    },
+    {
+      "code": "450000",
+      "title": "Technische voorzieningen voor aanwenden of toepassen van duurzame energie",
+      "description": "De voorziening moet de inzet van primaire energie (aardolie, steenkool, aardgas) beperken door voor ten minste 70% gebruik te maken van zonne-energie of waterkracht.",
+      "category": "W",
+      "chapter": "Duurzame energie",
+      "subsidy_percentage": 0.4,
+      "page": 61
+    },
+    {
+      "code": "250101",
+      "title": "Zonnecollectorsysteem voor verwarmen",
+      "description": "Bestemd voor: het verwarmen van water of lucht, en bestaande uit: a. zonnecollector met een totale apertuuroppervlakte van minder dan 200 m2, (eventueel) restwarmteopslagvat, (eventueel) warmtewisselaar, (eventueel) in het vat geïntegreerde naverwarmer, (eventueel) in lucht-verwarmer geïntegreerde fotovoltaïsche zonnecellen, (eventueel) ab- of adsorptiekoelmachine die hoofdzakelijk werkt op zonne-energie; b. onafgedekte zonnecollector met een totale apertuuroppervlakte van ten minste 100 m2, (eventueel) restwarmteopslagvat, (eventueel) warmtewisselaar, (eventueel) in het vat geïntegreerde naverwarmer, (eventueel) ab- of adsorptiekoelmachine die hoofdzakelijk werkt op zonne-energie.",
+      "category": "W",
+      "chapter": "Duurzame energie",
+      "subsidy_percentage": 0.4,
+      "page": 61
+    },
+    {
+      "code": "251201",
+      "title": "Warmte- of koudeopslag in de bodem (WKO)",
+      "description": "Bestemd voor: het opslaan van warmte of koude in de bodem met grondwater als opslagmedium, voor het koelen of verwarmen van bedrijfsgebouwen of processen of het collectief koelen of verwarmen van woningen, en bestaande uit: systeem met grondwaterbronnen/putten, die voor onttrekking en injectie worden gebruikt, grondwaterpompen, (eventueel) warmtewisselaar die direct is gekoppeld aan de grondwaterbron, (eventueel) warmtewisselaar die de grondwaterbron regenereert met koude of warmte uit buitenlucht of oppervlaktewater, (eventueel) warmte- of koudetransportleiding.",
+      "category": "W",
+      "chapter": "Duurzame energie",
+      "subsidy_percentage": 0.4,
+      "page": 61
+    },
+    {
+      "code": "251202",
+      "title": "Grondwarmtewisselaar",
+      "description": "a. Bestemd voor: het koelen of verwarmen van water voor gebruik in bedrijfsgebouwen, processen of collectieve systemen voor woningen met behulp van een warmtewisselaar die zich in het grondwater bevindt, en bestaande uit: ondergrondse warmtewisselaar, pomp, (eventueel) water-lucht warmtewisselaar in stallen die de warmte of koude uit de bodem rechtstreeks afgeeft, (eventueel) restwarmteopslagvat; b. Bestemd voor: het verwarmen van water voor gebruik in bedrijfsgebouwen, processen of collectieve systemen voor woningen met behulp van een warmtewisselaar die in de bodem ligt, en bestaande uit: pomp(en), ondergrondse warmtewisselaar of warmtevoerende buizen in de bodem exclusief de bodembedekking zelf, (eventueel) restwarmteopslagvat; c. Bestemd voor: het voorkoelen of voorverwarmen van buitenlucht voor het gebruik in bedrijfsgebouwen met behulp van ondergrondse buizen als warmtewisselaar, en bestaande uit: luchtgrondbuizen met een diameter van maximaal 40 cm, (eventueel) luchtplenum, (eventueel) automatisch geregelde centrale bypass; d. Bestemd voor: het koelen van elektronische inrichtingen, en bestaande uit: ondergrondse warmtewisselaar, (eventueel) pomp, water-lucht warmtewisselaar die de koude uit de bodem rechtstreeks afgeeft, (eventueel) ventilator.",
+      "category": "W GEWIJZIGD",
+      "chapter": "Duurzame energie",
+      "subsidy_percentage": 0.4,
+      "page": 61
+    },
+    {
+      "code": "251203",
+      "title": "Oppervlaktewater warmtewisselaar",
+      "description": "Bestemd voor: het verwarmen van bedrijfsgebouwen of collectieve systemen voor woningen door benutting van energie uit het oppervlaktewater, en bestaande uit: warmtewisselaar, pomp.",
+      "category": "W NIEUW",
+      "chapter": "Duurzame energie",
+      "subsidy_percentage": 0.4,
+      "page": 62
+    },
+    {
+      "code": "251300",
+      "title": "Opslag van duurzaam geproduceerde warmte",
+      "description": "a. Bestemd voor: Het opslaan van warmte met een temperatuur van ten minste 25°C die geproduceerd is uit hernieuwbare energiebronnen, en bestaande uit: geïsoleerd ondergronds warmteopslagsysteem met een opslagcapaciteit van ten minste 100 m3, (eventueel) warmtewisselaar, (eventueel) regelsysteem. b. Bestemd voor: het langdurig opslaan van warmte in een vaste stof met een temperatuur van ten minste 50°C die geproduceerd is uit hernieuwbare energiebronnen, en bestaande uit: geïsoleerde thermische batterij, (eventueel) warmtewisselaar, (eventueel) regelsysteem. c. Bestemd voor: het opslaan van warmte in faseovergangsmateriaal met warmte geproduceerd uit hernieuwbare energiebronnen, en bestaande uit: geïsoleerde buffertank, faseovergangsmateriaal, (eventueel) warmtewisselaar, (eventueel) regelsysteem.",
+      "category": "W NIEUW",
+      "chapter": "Duurzame energie",
+      "subsidy_percentage": 0.4,
+      "page": 62
+    },
+    {
+      "code": "251102",
+      "title": "Zonnepanelen voor elektriciteitsopwekking",
+      "description": "Bestemd voor: het opwekken van elektrische energie uit zonlicht met behulp van zonnecellen, en bestaande uit: panelen met fotovoltaïsche zonnecellen met een gezamenlijk piekvermogen van ten minste 15 kW en maximaal 55 kW, aansluiting op het elektriciteitsnet, (eventueel) actief zonvolgsysteem (eventueel) stroom/spanningsomvormer.",
+      "category": "W GEWIJZIGD",
+      "chapter": "Duurzame energie",
+      "subsidy_percentage": 0.4,
+      "page": 62
+    },
+    {
+      "code": "251117",
+      "title": "Netaansluiting voor zonnepanelen met SDE 2016 - 2020",
+      "description": "Bestemd voor: het leveren van elektriciteit door panelen met fotovoltaïsche zonnecellen, niet zijnde op of aan gebouwen bevestigde panelen, en bestaande uit: aansluiting op het midden- of hoogspanningsnet.",
+      "category": "W",
+      "chapter": "Duurzame energie",
+      "subsidy_percentage": 0.4,
+      "page": 63
+    },
+    {
+      "code": "251118",
+      "title": "Accu voor opslag van duurzaam opgewekte elektriciteit",
+      "description": "Bestemd voor: stationaire opslag van elektrische energie, en bestaande uit: accu die geen lood bevat met een vermogen van ten minste 5 kW en een capaciteit van ten minste 15 kWh, (eventueel) stroom/spanningsomvormer, (eventueel) regelsysteem.",
+      "category": "W GEWIJZIGD",
+      "chapter": "Duurzame energie",
+      "subsidy_percentage": 0.4,
+      "page": 63
+    },
+    {
+      "code": "251110",
+      "title": "Organic Rankine Cycle of Kalinacyclus",
+      "description": "Bestemd voor: het omzetten van warmte naar mechanische of elektrische energie waarbij gebruik wordt gemaakt van duurzame warmte, en bestaande uit: condensor, verdamper, pomp, turbine, (eventueel) separator, (eventueel) warmtewisselaar, (eventueel) generator, (eventueel) aansluiting op het elektriciteitsnet.",
+      "category": "W",
+      "chapter": "Duurzame energie",
+      "subsidy_percentage": 0.4,
+      "page": 63
+    },
+    {
+      "code": "251206",
+      "title": "Windwatermolen",
+      "description": "Bestemd voor: het op windkracht direct verpompen van water, en bestaande uit: wieken, mast, waterpomp.",
+      "category": "W",
+      "chapter": "Duurzame energie",
+      "subsidy_percentage": 0.4,
+      "page": 63
+    },
+    {
+      "code": "260101",
+      "title": "Opslag van elektrische energie",
+      "description": "Bestemd voor: stationaire opslag van overtollige elektrische energie door het automatisch in- of uitschakelen afhankelijk van een elektrische deelmarkt, en bestaande uit: accu die geen lood bevat of supercondensator met een vermogen van ten minste 5 kW en een capaciteit van ten minste 15 kWh, stroom/spanningsomvormer, regelelektronica, optimalisatiesoftware.",
+      "category": "W GEWIJZIGD",
+      "chapter": "Energiebalancering",
+      "subsidy_percentage": 0.4,
+      "page": 65
+    },
+    {
+      "code": "260102",
+      "title": "Mobiele elektriciteitsvoorziening",
+      "description": "Bestemd voor: het bufferen en afgeven van elektrische energie, en bestaande uit: verplaatsbare container met daarin accu's die geen lood bevatten met een opgesteld vermogen van ten minste 30 kW, inverter, regelelektronica, (eventueel) ingebouwd klimaatsysteem, (eventueel) zonnepanelen of -folie, (eventueel) actief zonvolgsysteem.",
+      "category": "W GEWIJZIGD",
+      "chapter": "Energiebalancering",
+      "subsidy_percentage": 0.4,
+      "page": 65
+    },
+    {
+      "code": "260201",
+      "title": "Conversie van elektrische energie naar waterstof (Power to gas)",
+      "description": "Bestemd voor: conversie van overtollige elektriciteit naar waterstof, en bestaande uit: elektrolyser, optimalisatiesoftware, (eventueel) compressor, (eventueel) buffer voor opslag van waterstof, (eventueel) aansluiting op het aardgasnet, (eventueel) aansluiting op waterstofnetwerk.",
+      "category": "W",
+      "chapter": "Energiebalancering",
+      "subsidy_percentage": 0.4,
+      "page": 65
+    },
+    {
+      "code": "260301",
+      "title": "Conversie van elektrische energie naar warmte (Power to heat)",
+      "description": "Bestemd voor: conversie van overtollige elektriciteit naar warmte met een elektrisch vermogen groter of gelijk aan 100 kWe, en bestaande uit: elektrische boiler, optimalisatiesoftware, (eventueel) warmteopslagvat.",
+      "category": "W",
+      "chapter": "Energiebalancering",
+      "subsidy_percentage": 0.4,
+      "page": 65
+    },
+    {
+      "code": "260403",
+      "title": "Boosterinstallatie voor het benutten van overtollig groen gas",
+      "description": "Bestemd voor: het comprimeren en transporteren van gas uit een netwerk met relatief lage druk naar een regionaal of landelijk netwerk op een hoger drukniveau (het zogenoemde regionale transportleidingsysteem (RTL) of hoofdtransportleidingsysteem (HTL)) met als doel het vormen van buffercapaciteit waardoor geen invoerbeperking ontstaat op een lagedruk gasnetwerk (netwerk van een regionale netbeheerder (RNB)) tijdens het produceren van groen gas, en bestaande uit: compressorinstallatie, aansluiting op regionaal distributienet, aansluiting op regionaal- of landelijk transportleidingnet.",
+      "category": "W",
+      "chapter": "Energiebalancering",
+      "subsidy_percentage": 0.4,
+      "page": 65
+    },
+    {
+      "code": "260404",
+      "title": "Opslag van elektrische energie met vliegwielopslagsysteem",
+      "description": "Bestemd voor: stationaire opslag van overtollige elektrische energie door het automatisch in- of uitschakelen afhankelijk van een elektrische deelmarkt, en bestaande uit: vliegwielopslagsysteem, inverter, regelelektronica, optimalisatiesoftware.",
+      "category": "W",
+      "chapter": "Energiebalancering",
+      "subsidy_percentage": 0.4,
+      "page": 66
+    },
+    {
+      "code": "260405",
+      "title": "Opslag van overtollige warmte",
+      "description": "a. Bestemd voor: het langdurig ondergronds opslaan van afvalwarmte, restwarmte of overtollige warmte uit hernieuwbare bronnen, met een temperatuur van ten minste 30 oC, tot een diepte van maximaal 500 meter, en bestaande uit: ondergronds warmteopslagsysteem, leidingen, pompen, (eventueel) warmtewisselaar, (eventueel) regelsysteem. b. Bestemd voor: het opslaan van afvalwarmte, restwarmte of overtollige warmte uit hernieuwbare bronnen, met een temperatuur van ten minste 400 oC, en bestaande uit: warmteopslagsysteem, leidingen, pompen, (eventueel) warmtewisselaar, (eventueel) regelsysteem.",
+      "category": "W",
+      "chapter": "Energiebalancering",
+      "subsidy_percentage": 0.4,
+      "page": 66
+    },
+    {
+      "code": "270101",
+      "title": "Elektrische oven",
+      "description": "Bestemd voor: het vervangen of ombouwen van een oven, gestookt met een fossiele brandstof, en bestaande uit: elektrische (droog)oven, (eventueel) noodzakelijke aanpassing van de elektriciteitsaansluiting.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 68
+    },
+    {
+      "code": "270102",
+      "title": "Stoomrecompressie",
+      "description": "Bestemd voor: het opwaarderen van stoom naar hogere temperatuur en druk, en bestaande uit: mechanische dampcompressor of thermische dampcompressor, aansluiting op het stoomnetwerk, (eventueel) noodzakelijke aanpassing van de elektriciteitsaansluiting, (eventueel) regelsysteem.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 68
+    },
+    {
+      "code": "270103",
+      "title": "Infraroodpanelen",
+      "description": "Bestemd voor: het plaatselijk verwarmen van binnenruimtes met een gemiddelde hoogte van meer dan 4 meter, en bestaande uit: elektrische infraroodpanelen, (eventueel) aanwezigheidssensor.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 68
+    },
+    {
+      "code": "270104",
+      "title": "Elektrische toestellen voor stoomopwekking of verwarming van thermische olie voor processen",
+      "description": "Bestemd voor: het opwekken van stoom of verwarmen van thermische olie, en bestaande uit: a. elektrisch toestel dat stoom opwekt of thermische olie verwarmt, (eventueel) noodzakelijke aanpassingen van de elektriciteitsaansluiting; b. hybride toestel dat stoom opwekt middels elektriciteit en gas, (eventueel) noodzakelijke aanpassingen van de elektriciteitsaansluiting.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 68
+    },
+    {
+      "code": "270105",
+      "title": "Warmtekrachtinstallatie gestookt op waterstof",
+      "description": "Bestemd voor: het gelijktijdig opwekken van warmte en mechanische of elektrische energie door verbranding van uitsluitend waterstof, en bestaande uit: warmtekrachtinstallatie, (eventueel) restwarmteopslagvat, (eventueel) rookgascondensor, (eventueel) aansluiting op het elektriciteitsnet.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 68
+    },
+    {
+      "code": "270106",
+      "title": "Mobiel elektrisch werktuig zonder vaste bestuurdersplaats",
+      "description": "Bestemd voor: het vervangen van een met fossiele brandstof aangedreven mobiel werktuig, en bestaande uit: elektromotor met een vermogen van tenminste 5 kW, (eventueel) accu.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 68
+    },
+    {
+      "code": "270107",
+      "title": "Elektrisch frituurtoestel",
+      "description": "Bestemd voor: het vervangen van gasgestookte frituurtoestellen, en bestaande uit: in een bakwand ingebouwd frituurtoestel met geïntegreerde inductiespoelen of met in de frituurolie geplaatste elektrische elementen, (eventueel) bijbehorende stroomregeling, (eventueel) noodzakelijke aanpassing van de elektriciteitsaansluiting.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 69
+    },
+    {
+      "code": "270201",
+      "title": "Waterstofbijmenging",
+      "description": "Bestemd voor: het aanpassen van bestaande installaties ten behoeve van het bijmengen van waterstof in aardgas, en bestaande uit: noodzakelijke aanpassingen voor het bijmengen van waterstof, (eventueel) lokale waterstofproductie door middel van elektrolyse, (eventueel) meet- en regelapparatuur.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 69
+    },
+    {
+      "code": "270202",
+      "title": "Warmte- en/of koudenet",
+      "description": "Bestemd voor: het uitkoppelen bij de bron en het transporteren van warmte of koude voor het verwarmen of koelen van gebouwen en/of processen, en bestaande uit: warmtewisselaar bij de bron, warmte- of koudetransportleiding, warmte- of koudedistributienet, afleversets.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 69
+    },
+    {
+      "code": "270204",
+      "title": "Energiesysteem voor verwarmen en/of koelen van bestaande gebouwen",
+      "description": "Bestemd voor: het collectief verwarmen en/of koelen van bestaande bedrijfsgebouwen en/of bestaande woningen, en bestaande uit: bron die voor minimaal 70% van de energie-inhoud bestaat uit een hernieuwbare energiebron en/of afvalwarmte en/of restwarmte en/of duurzame warmte, warmtepomp, warmte- of koudedistributienet, afleversets, (eventueel) warmte- of koudetransportleiding, (eventueel) warmtepompboiler volgens code 211102.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 69
+    },
+    {
+      "code": "211102",
+      "title": "Warmtepompboiler",
+      "description": "Warmtepompboiler volgens code 211102",
+      "category": null,
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 69
+    },
+    {
+      "code": "270301",
+      "title": "CO₂-afvang voor permanente opslag (CCS)",
+      "description": "Bestemd voor: het afscheiden, terugwinnen, transporteren en opslaan van CO uit rookgassen of andere gasstromen ten behoeve van permanente opslag, en bestaande uit: CO-reinigingsapparatuur, CO-compressor, transportleiding naar de opslaglocatie, (eventueel) wasser, (eventueel) droger, (eventueel) koeling, (eventueel) CO-buffer voor tijdelijke opslag, (eventueel) kosten voor gereedmaken van de aquifer of reservoir.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 70
+    },
+    {
+      "code": "270302",
+      "title": "Technische voorzieningen voor CO₂-emissiereductie bij bestaande inrichtingen",
+      "description": "Bestemd voor: het reduceren van CO-emissie van bestaande inrichtingen, en bestaande uit: technische voorziening die is opgenomen in een emissiereductieplan.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 70
+    },
+    {
+      "code": "270401",
+      "title": "Privaat waterstofnetwerk",
+      "description": "Bestemd voor: het transporteren van gasvormige waterstof met een zuiverheid van tenminste 95%, met uitzondering van leidingen die in het gereguleerde domein vallen, en bestaande uit: leidingen voor waterstoftransport en waterstofdistributie met een gezamenlijke lengte van ten hoogste 40 km, (eventueel) aansluiting op een openbaar waterstofnetwerk, (eventueel) compressoren, (eventueel) meet- en regeltechniek.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 70
+    },
+    {
+      "code": "270402",
+      "title": "Stationaire waterstofopslag",
+      "description": "Bestemd voor: de grondgebonden opslag van vloeibare waterstof, gasvormige waterstof met een zuiverheid van ten minste 95% of waterstof gebonden aan een vloeibaar dragermateriaal (LOHC), en bestaande uit: a. opslagtank, (eventueel) compressor, (eventueel) expander, (eventueel) een installatie om waterstof vloeibaar te maken, (eventueel) aansluiting op netwerk; b. installaties voor het benutten van een zoutcaverne, reservoir of aquifer, (eventueel) compressor, (eventueel) expander, (eventueel) aansluiting op netwerk.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 71
+    },
+    {
+      "code": "270403",
+      "title": "Waterstofproductie door middel van elektrolyse",
+      "description": "Bestemd voor: de productie van waterstof met elektriciteit uit hoofdzakelijk hernieuwbare energiebronnen, en bestaande uit: elektrolyser, (eventueel) elektriciteitsaansluiting, (eventueel) installatie voor gedemineraliseerd water, (eventueel) installatie voor reiniging van waterstof, (eventueel) installatie voor compressie en droging van waterstof.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 71
+    },
+    {
+      "code": "270404",
+      "title": "Brandstofcelsysteem voor waterstof",
+      "description": "Bestemd voor: het rechtstreeks omzetten van waterstof in elektrische energie, en bestaande uit: brandstofcel, (eventueel) brandstofreformer.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 71
+    },
+    {
+      "code": "270405",
+      "title": "Boiler gestookt met ijzerbrandstof",
+      "description": "Bestemd voor: het leveren van heet water, stoom en/of hete lucht voor industriële processen, warmtenetten of energiecentrales, en bestaande uit: boilersysteem met een rendement van ten minste 75%, ijzerbrandstof- en roestopslagsilo, intern transportsysteem tussen boiler en opslagsilo.",
+      "category": "W",
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 71
+    },
+    {
+      "code": "211103",
+      "title": "Energiesysteem",
+      "description": "Niet-collectieve energiesystemen die mogelijk onder deze code gemeld kunnen worden",
+      "category": null,
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 70
+    },
+    {
+      "code": "211104",
+      "title": "Energiesysteem",
+      "description": "Niet-collectieve energiesystemen die mogelijk onder deze code gemeld kunnen worden",
+      "category": null,
+      "chapter": "Energietransitie",
+      "subsidy_percentage": 0.4,
+      "page": 70
+    },
+    {
+      "code": "210000",
+      "title": "Isolatiemaatregelen",
+      "description": "Maatregelen die voldoen aan code 210000 voor blowerdoortest",
+      "category": null,
+      "chapter": "Gebouwde omgeving",
+      "subsidy_percentage": 0.4,
+      "page": 73
+    },
+    {
+      "code": "210001",
+      "title": "Isolatiemaatregelen",
+      "description": "Maatregelen die voldoen aan code 210001 voor blowerdoortest",
+      "category": null,
+      "chapter": "Gebouwde omgeving",
+      "subsidy_percentage": 0.4,
+      "page": 73
+    },
+    {
+      "code": "210402",
+      "title": "Isolatiemaatregelen",
+      "description": "Maatregelen die voldoen aan code 210402 voor blowerdoortest",
+      "category": null,
+      "chapter": "Gebouwde omgeving",
+      "subsidy_percentage": 0.4,
+      "page": 73
+    },
+    {
+      "code": "210403",
+      "title": "Isolatiemaatregelen",
+      "description": "Maatregelen die voldoen aan code 210403 voor blowerdoortest",
+      "category": null,
+      "chapter": "Gebouwde omgeving",
+      "subsidy_percentage": 0.4,
+      "page": 73
+    }
+  ]
+}

@@ -1,0 +1,2939 @@
+{
+  "version": "2025",
+  "source": "BrochureMilieulijst2025v3.pdf",
+  "mia_budget": 189000000,
+  "vamil_budget": 20000000,
+  "updated": "2024-12-01",
+  "codes": [
+    {
+      "code": "B 2203",
+      "title": "Zuiveringstechniek voor melkrobots",
+      "description": "Melkapparatuur tussen het melken door in-situ gedesinfecteerd kan worden met een desinfectiesysteem op basis van elektrolyse van natriumchloride",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 15
+    },
+    {
+      "code": "A 2357",
+      "title": "Onkruidbestrijdingsmachine met behulp van lasers",
+      "description": "Bedrijfsmiddel voor investeringen in een onkruidbestrijdingsmachine met behulp van lasers",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 15
+    },
+    {
+      "code": "F 2318",
+      "title": "Productie- en verwerkingsapparatuur voor biobased grondstoffen",
+      "description": "Productie- en verwerkingsapparatuur voor biobased grondstoffen waarbij gewassen geteeld worden die geschikt zijn om te verwerken tot grondstoffen voor bouwmaterialen",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 15
+    },
+    {
+      "code": "B 2615",
+      "title": "Volautomatische sorteerinstallaties",
+      "description": "Beperkt tot het automatisch sorteren van wortelen",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 15
+    },
+    {
+      "code": "A 2720",
+      "title": "Bedrijfsmiddelen bestemd voor het kweken van insecten",
+      "description": "Kunnen alleen nog gemeld worden wanneer de eindproducten bestemd zijn voor humane consumptie",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 15
+    },
+    {
+      "code": "F 2721",
+      "title": "Bedrijfsmiddelen bestemd voor het verwerken van insecten",
+      "description": "Kunnen alleen nog gemeld worden wanneer de eindproducten bestemd zijn voor humane consumptie",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 15
+    },
+    {
+      "code": "F 2722",
+      "title": "Verwerken van laagwaardige plantaardige reststromen tot voedsel voor insectenkweek",
+      "description": "Kunnen alleen nog gemeld worden wanneer de eindproducten bestemd zijn voor humane consumptie",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 15
+    },
+    {
+      "code": "E 3101",
+      "title": "Elektrische bestelauto's",
+      "description": "Komen in 2025 niet meer in aanmerking voor MIA",
+      "category": "E",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 0,
+      "vamil_percentage": 75,
+      "page": 15
+    },
+    {
+      "code": "E 3106",
+      "title": "Elektrisch aangedreven taxi's met 9 zitplaatsen of voor rolstoelvervoer",
+      "description": "Komen in 2025 niet meer in aanmerking voor MIA",
+      "category": "E",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 0,
+      "vamil_percentage": 75,
+      "page": 15
+    },
+    {
+      "code": "E 3114",
+      "title": "Elektrisch aangedreven L7e-C voertuigen en motorfietsen",
+      "description": "Komen in 2025 niet meer in aanmerking voor MIA",
+      "category": "E",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 0,
+      "vamil_percentage": 75,
+      "page": 15
+    },
+    {
+      "code": "E 3118",
+      "title": "Speed-pedelecs",
+      "description": "Komen in 2025 niet meer in aanmerking voor MIA",
+      "category": "E",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 0,
+      "vamil_percentage": 75,
+      "page": 15
+    },
+    {
+      "code": "F 3211",
+      "title": "Oplaadkluizen",
+      "description": "Komen sinds dit jaar in aanmerking voor MIA en Vamil",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 16
+    },
+    {
+      "code": "F 3723",
+      "title": "Laadtegels",
+      "description": "Komen sinds dit jaar in aanmerking voor MIA en Vamil",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 16
+    },
+    {
+      "code": "F 3210",
+      "title": "Toegangssystemen voor deelauto's",
+      "description": "Voordeel verhoogd naar 45% voor MIA",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 16
+    },
+    {
+      "code": "A 3310",
+      "title": "Loodvrije accupakketten voor vaartuigen",
+      "description": "Zijn komen te vervallen",
+      "category": "A",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 0,
+      "vamil_percentage": 0,
+      "page": 16
+    },
+    {
+      "code": "D 3322",
+      "title": "Elektrische scheepsaandrijving",
+      "description": "Accupakketten kunnen nog wel als onderdeel van een elektrische scheepsaandrijving gemeld worden",
+      "category": "D",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 16
+    },
+    {
+      "code": "F 3366",
+      "title": "Ontgassingsinstallaties voor scheepstanks",
+      "description": "Komen in 2025 niet meer in aanmerking",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 0,
+      "vamil_percentage": 0,
+      "page": 16
+    },
+    {
+      "code": "E 3419",
+      "title": "Elektrisch aangedreven werktuigen op een truckchassis",
+      "description": "Mogelijkheden zijn uitgebreid zodat niet alleen werktuigen voor hijs- en laad- en loswerkzaamheden in aanmerking komen",
+      "category": "E",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 16
+    },
+    {
+      "code": "E 3420",
+      "title": "Elektrisch aangedreven mobiele hijswerktuigen",
+      "description": "Eisen zijn aangepast met minimum eisen inzake hijscapaciteit en hefhoogte",
+      "category": "E",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 16
+    },
+    {
+      "code": "E 3423",
+      "title": "Elektrisch aangedreven hoogwerkers",
+      "description": "Eisen zijn aangepast met minimum eisen inzake hijscapaciteit en hefhoogte",
+      "category": "E",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 16
+    },
+    {
+      "code": "E 3520",
+      "title": "Elektrisch of waterstof aangedreven locomotieven",
+      "description": "Nieuw bedrijfsmiddel voor batterij elektrisch en waterstof aangedreven spoorvervoer",
+      "category": "E",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 16
+    },
+    {
+      "code": "E 4485",
+      "title": "Stofafscheiders",
+      "description": "Mogelijkheid is vervallen",
+      "category": "E",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 0,
+      "vamil_percentage": 0,
+      "page": 17
+    },
+    {
+      "code": "A 4240",
+      "title": "Koelsystemen met water als koudemiddel",
+      "description": "Steunmogelijkheid is vervallen",
+      "category": "A",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 0,
+      "vamil_percentage": 0,
+      "page": 17
+    },
+    {
+      "code": "D 4208",
+      "title": "F-gassen systeem",
+      "description": "Code is vervallen vanwege uitfaseren van F-gassen",
+      "category": "D",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 0,
+      "vamil_percentage": 0,
+      "page": 17
+    },
+    {
+      "code": "D 4680",
+      "title": "Koude oxidatie-installatie",
+      "description": "Voorwaarden voor steun zijn aangepast vanwege ontwikkelingen in de markt",
+      "category": "D",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 17
+    },
+    {
+      "code": "D 4417",
+      "title": "Rookgenerator voor voedselbewerking",
+      "description": "Omschrijving aangepast in verband met het verbod op bepaalde rookaroma's",
+      "category": "D",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 17
+    },
+    {
+      "code": "F 4290",
+      "title": "Gasdetectieapparatuur",
+      "description": "Investeringen komen alleen nog in aanmerking als het gaat om detectie van broeikasgassen",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 17
+    },
+    {
+      "code": "G 5202",
+      "title": "Circulaire woningen",
+      "description": "Geldt vanaf 2025 een aftopping van ten hoogste € 700 per vierkante meter",
+      "category": "G",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 17
+    },
+    {
+      "code": "D 5215",
+      "title": "Duurzame gebouwen BREEAM hoogste niveau",
+      "description": "Fiscaal voordeel wordt in 2025 verlaagd van 45% naar 36%",
+      "category": "D",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 17
+    },
+    {
+      "code": "D 5220",
+      "title": "Duurzame gebouwen GPR hoogste niveau",
+      "description": "Fiscaal voordeel wordt in 2025 verlaagd van 45% naar 36%",
+      "category": "D",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 17
+    },
+    {
+      "code": "D 5227",
+      "title": "Duurzame gebouwen DGNB hoogste niveau",
+      "description": "Fiscaal voordeel wordt in 2025 verlaagd van 45% naar 36%",
+      "category": "D",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 17
+    },
+    {
+      "code": "F 5300",
+      "title": "Groendak",
+      "description": "Mag in het vervolg worden gemeld inclusief de kosten voor dakisolatie en dakbedekking",
+      "category": "F",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 18
+    },
+    {
+      "code": "G 5340",
+      "title": "Groen en gezond bedrijfsterrein",
+      "description": "Ondernemers kunnen rekenen op een hoger fiscaal voordeel",
+      "category": "G",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 18
+    },
+    {
+      "code": "A 5341",
+      "title": "Vergroenen van een bestaand bedrijfsterrein",
+      "description": "Ondernemers kunnen rekenen op een hoger fiscaal voordeel",
+      "category": "A",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 18
+    },
+    {
+      "code": "F 5346",
+      "title": "Bovengrondse regenwaterbuffer",
+      "description": "Naast een investering in een ondergrondse regenwaterbuffer komt ook een bovengrondse regenwaterbuffer in aanmerking",
+      "category": "F",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 18
+    },
+    {
+      "code": "F 5141",
+      "title": "Gevelimpregnering zonder PFAS, siliconen, silanen en siloxanen",
+      "description": "Plantaardig middel welke minder schade aan de biodiversiteit en het milieu toebrengt dan gangbare gevelimpregneermiddelen",
+      "category": "F",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 18
+    },
+    {
+      "code": "F 5347",
+      "title": "Zuiveringsinstallatie voor grijswaterrecycling",
+      "description": "Zorgt voor een afname van het gebruik van drinkwater voor huishoudelijk gebruik",
+      "category": "F",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 18
+    },
+    {
+      "code": "F 1100",
+      "title": "Productieapparatuur voor grondstoffen of producten op basis van biomassa",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 23
+    },
+    {
+      "code": "F 1101",
+      "title": "Productieapparatuur voor (producten van) biobased plastics",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 23
+    },
+    {
+      "code": "F 1106",
+      "title": "Productiesysteem met micro-organismen",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 23
+    },
+    {
+      "code": "F 1115",
+      "title": "Productieapparatuur voor lignine-asfalt",
+      "description": "bestemd voor: het toepassen van lignine bij de productie van asfalt, waarbij: - het bindmiddel van het met de asfaltcentrale geproduceerde lignine-asfalt gemiddeld voor ten minste 45% op gewichtsbasis bestaat uit lignine, en - de toegepaste lignine een afvalstof of bijproduct is",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 24
+    },
+    {
+      "code": "F 1200",
+      "title": "Nieuwe en innovatieve grondstofbesparende productieapparatuur",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 24
+    },
+    {
+      "code": "A 1201",
+      "title": "Grondstofbesparende productieapparatuur",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "A",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 24
+    },
+    {
+      "code": "B 1202",
+      "title": "Grondstofbesparende industriële apparatuur",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "B",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 24
+    },
+    {
+      "code": "B 1211",
+      "title": "3D-printer voor het vervangen van (industriële) productieapparatuur",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "B",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 24
+    },
+    {
+      "code": "F 1212",
+      "title": "Reinigingsinstallatie op basis van laser",
+      "description": "bestemd voor: het reinigen of opruwen van machineonderdelen, halffabricaten, producten of (gevel) oppervlakken, niet zijnde scheepshuiden, met een laser in een afgesloten behuizing, waarbij de afgezogen lucht gefilterd wordt uitgeblazen naar de buitenlucht",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 24
+    },
+    {
+      "code": "D 1215",
+      "title": "Apparatuur voor rugpapiervrije etiketten",
+      "description": "bestemd voor: het printen, snijden en aanbrengen van uitsluitend rugpapiervrije etiketten (linerless) op verpakkingen en onderdelen met een etiketteermachine voor industriële toepassingen",
+      "category": "D",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": null,
+      "page": 25
+    },
+    {
+      "code": "F 1216",
+      "title": "Tankinstallatie voor ruitensproeiervloeistof",
+      "description": "bestemd voor: het verpakkingsvrij afleveren van ruitensproeiervloeistof aan motorvoertuigen met een tankinstallatie, waarbij de installatie is voorzien van een betalingsterminal die permanent met het internet verbonden is",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 25
+    },
+    {
+      "code": "B 1221",
+      "title": "Chemicaliënvrije koelwaterbehandelingsinstallatie (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het bij een bestaande koelinstallatie vervangen van de behandeling van koelwater met chloor of andere chemische middelen, door ontsmetting en al dan niet ontkalking van koelwater met: 1. hydrodynamische cavitatie, 2. ozonoxidatie, 3. elektrolyse, 4. uv-bestraling, of 5. een combinatie van de bovenstaande technieken",
+      "category": "B",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 25
+    },
+    {
+      "code": "F 1230",
+      "title": "Apparatuur voor beheer van metaalbewerkingsvloeistoffen",
+      "description": "bestemd voor: het volcontinu en automatisch meten en conditioneren van metaalbewerkingsvloeistoffen, waarbij op basis van de meetresultaten alleen die hulpstoffen worden aangevuld die nodig zijn om de samenstelling van de metaalbewerkingsvloeistof constant te houden",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 26
+    },
+    {
+      "code": "C 1250",
+      "title": "Cadmium- en fluorvrije zonnepanelen met terugnamegarantie en losmaakbare zonnecellen",
+      "description": "bestemd voor: het opwekken van elektriciteit met zonnepanelen, waarbij de zonnepanelen: - zodanig uit elkaar te halen zijn dat de zonnecellen en platen waartussen deze zijn verwerkt apart kunnen worden gerecycled, - geen cadmium of fluor bevatten, - aan het einde van de gebruiksduur gegarandeerd kosteloos worden teruggenomen door de fabrikant om te worden hergebruikt of gerecycled",
+      "category": "C",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": null,
+      "vamil_percentage": 75,
+      "page": 26
+    },
+    {
+      "code": "E 1271",
+      "title": "Transformator met giethars of biobased olie",
+      "description": "bestemd voor: het omzetten van hoogspanning naar laagspanning of van laagspanning naar hoogspanning door een transformator die is geïsoleerd met: 1. giethars, 2. biologisch afbreekbare transformatorolie die voor ten minste 98% bestaat uit duurzame biomassa volgens NEN-EN-IEC 62770, of 3. biologisch afbreekbare transformatorolie die voor ten minste 98% bestaat uit duurzame biomassa volgens ASTM D6866 en OECD 301",
+      "category": "E",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 27,
+      "vamil_percentage": null,
+      "page": 27
+    },
+    {
+      "code": "A 1281",
+      "title": "Grondstofbesparend printsysteem voor ontinktbare inkt",
+      "description": "bestemd voor: het industrieel digitaal printen op papier of (golf)karton, waarbij: - het drukwerk met een offsetdruksysteem aanzienlijk wordt verminderd, - uitsluitend inkt wordt gebruikt die een INGEDE certificaat heeft met een deinkability score 'good' en een score van ten minste 71 punten",
+      "category": "A",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 27
+    },
+    {
+      "code": "F 1300",
+      "title": "Productieapparatuur voor refurbishen of hergebruik",
+      "description": "bestemd voor: het verminderen van het gebruik van primaire grondstoffen, door: 1. het vervaardigen van gerefurbishte producten die ten minste tot de oorspronkelijke nieuwstaat zijn teruggebracht en waarop een productgarantie van ten minste 1 jaar wordt verleend, of 2. het vervaardigen van nieuwe producten met gebruikte onderdelen",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 28
+    },
+    {
+      "code": "F 1301",
+      "title": "Apparatuur of voorziening voor demontage ten behoeve van hergebruik of recycling",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 28
+    },
+    {
+      "code": "F 1306",
+      "title": "Afvulmachine voor herbruikbare verpakkingen",
+      "description": "bestemd voor: het afvullen van herbruikbare verpakkingen van consumenten bij supermarkten of detailhandel met een afvulmachine, waarbij: - de afvulmachine uitsluitend ingezet wordt voor het hergebruik van verpakkingen, en - het hergebruik van verpakkingen en de afvulmachine niet gangbaar zijn",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 29
+    },
+    {
+      "code": "F 1307",
+      "title": "Tapsysteem voor water en frisdranken",
+      "description": "bestemd voor: het ter plaatste produceren en tappen van niet-alcoholische dranken, waarbij: - het tapsysteem is aangesloten op de waterleiding, - de dranken worden geproduceerd voor consumptie op locatie bij de horeca of voor het vullen van herbruikbare bekers en flessen van consumenten, en - de verkoop of het gebruik van voorverpakte dranken ten opzichte van de bestaande situatie ter plaatse wordt verminderd",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 29
+    },
+    {
+      "code": "F 1308",
+      "title": "Inzamel- en geldretoursysteem voor herbruikbare bekers",
+      "description": "bestemd voor: het inzamelen van herbruikbare bekers en overige drank- en voedselverpakkingen in een gesloten kringloop, waarbij sprake is van een geldretoursysteem door het toepassen van borg",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 29
+    },
+    {
+      "code": "F 1310",
+      "title": "Herbruikbare uitvaartkist",
+      "description": "bestemd voor: het tijdens rouwplechtigheden omhullen van een binnenkist, waarbij: - de binnenkist bestaat uit duurzame biomassa, en - de (onderdelen van de) omhullende uitvaartkist opnieuw gebruikt worden",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 30
+    },
+    {
+      "code": "F 1315",
+      "title": "Apparatuur voor hergebruik van absorptiekorrels",
+      "description": "bestemd voor: het scheiden van verzadigde en onverzadigde absorptiekorrels voor oliën en chemicaliën, waardoor ten minste 80% van de onverzadigde absorptiekorrels wordt teruggewonnen en hergebruikt",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 30
+    },
+    {
+      "code": "A 1340",
+      "title": "Waterbesparende voorziening of installatie",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "A",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 30
+    },
+    {
+      "code": "F 1400",
+      "title": "Nieuwe en innovatieve recyclingapparatuur",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 30
+    },
+    {
+      "code": "A 1401",
+      "title": "Recyclingapparatuur",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "A",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 30
+    },
+    {
+      "code": "B 1405",
+      "title": "Terugwinningsinstallatie voor grondstoffen uit afvalwater of waterzuiveringsslib (aanpassen bestaande situatie)",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "B",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 31
+    },
+    {
+      "code": "F 1407",
+      "title": "Terugwinningsapparatuur voor grondstoffen uit afgassen",
+      "description": "bestemd voor: het met ten minste 90% rendement terugwinnen van ten minste één van de volgende grondstoffen uit de afgassen van een productieproces in de glas-, staal-, metaal-, halfgeleider- of chemische industrie: 1. waterstof, 2. stikstof, 3. methaan, 4. waterstofsulfide, of 5. tinoxide",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 31
+    },
+    {
+      "code": "F 1409",
+      "title": "Apparatuur voor de chemische recycling van afvalstoffen",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 31
+    },
+    {
+      "code": "F 1411",
+      "title": "Opwerkingsinstallatie voor AEC-bodemas",
+      "description": "bestemd voor: het opwerken van AEC-bodemas tot niet-vormgegeven bouwstof als bedoeld in de Regeling bodemkwaliteit 2022, waarbij: - de uitloging van de niet-vormgegeven bouwstof de maximale emissiewaarden genoemd in tabel 1 van bijlage A bij de Regeling bodemkwaliteit 2022 niet overschrijdt",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 31
+    },
+    {
+      "code": "F 1418",
+      "title": "Recyclingapparatuur voor textiel",
+      "description": "bestemd voor: het recyclen van textielafval door: 1. chemische recycling tot een grondstof of garen, waarbij toegevoegde chemicaliën voor ten minste 80% worden gerecycled in het proces, of 2. mechanische recycling tot (een grondstof voor) garen",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 32
+    },
+    {
+      "code": "F 1419",
+      "title": "Recyclingapparatuur voor spuitbussen",
+      "description": "bestemd voor: het verwerken van spuitbussen tot metalen, vloeistoffen en gassen, waarbij: - ten minste 80% van de metalen worden gerecycled, en - de vrijkomende vloeistoffen en gassen nuttig worden toegepast",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 32
+    },
+    {
+      "code": "F 1461",
+      "title": "Depolymerisatie-installatie voor polyesterafval",
+      "description": "bestemd voor: het afbreken van condensatiepolymeren in polyester- of polyethyleentereftalaat (pet-)afvalstromen door glycolyse en katalyse in een continu proces, waarbij: - de afvalstroom bestaat uit gekleurde afvalstoffen of afvalstoffen die niet mechanisch gerecycled kunnen worden tot een grondstof voor de productie van petflessen",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 32
+    },
+    {
+      "code": "F 1490",
+      "title": "Recyclinginstallatie voor luiers",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 32
+    },
+    {
+      "code": "A 1500",
+      "title": "Verwerkingsapparatuur voor gerecyclede grondstoffen",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "A",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 33
+    },
+    {
+      "code": "F 1561",
+      "title": "Verwerkingsapparatuur voor plastic zwerfafval",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 33
+    },
+    {
+      "code": "F 1565",
+      "title": "Verwerkingsinstallatie voor rubbergranulaat",
+      "description": "bestemd voor: het verwerken van rubbergranulaat dat afkomstig is van gebruikte autobanden of infill van kunstgrasvelden, waarbij: - het granulaat wordt verwerkt tot producten die kunnen worden ingezet als vormgegeven bouwstof als bedoeld in artikel 1, eerste lid van de Regeling bodemkwaliteit 2022",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 33
+    },
+    {
+      "code": "F 1570",
+      "title": "Asfaltcentrale voor toepassen van ten minste 65% PAK-arm asfaltrecyclaat",
+      "description": "bestemd voor: het produceren van asfalt met een asfaltcentrale, waarbij: - hoofdzakelijk asfaltmengsels op basis van ten minste 65% gerecycled PAK-arm asfalt worden geproduceerd, - het te recyclen asfalt overdekt wordt opgeslagen, - het te recyclen asfalt op productietemperatuur wordt gebracht door indirecte verwarming",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 33
+    },
+    {
+      "code": "A 1600",
+      "title": "Scheidingsapparatuur voor afvalstoffen",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "A",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 34
+    },
+    {
+      "code": "D 1601",
+      "title": "Inzamelapparatuur of -voorziening voor monostromen",
+      "description": "bestemd voor: het aan de bron gescheiden inzamelen van afvalstromen, waarbij: - de inzameling leidt tot meer of zuiverdere afvalstromen dan gangbaar is voor de betreffende afvalstroom, - de recycling van de afvalstroom aantoonbaar verbetert ten opzichte van wat gangbaar is voor de betreffende afvalstroom, en - de inzameling niet plaatsvindt door middel van multi-afvalbakken in publieke ruimtes of kantoren",
+      "category": "D",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": null,
+      "page": 34
+    },
+    {
+      "code": "A 1613",
+      "title": "Glasversnipperaar voor horecabedrijven",
+      "description": "bestemd voor: het op locatie van een horecabedrijf als bedoeld in artikel 1, eerste lid, van de Drank- en Horecawet granuleren van glasafval (non-return glas) afkomstig van dit horecabedrijf, waarbij het gegranuleerde glas: - wordt afgevoerd door of aangeboden aan een afvalverwerkend bedrijf, en - wordt gerecycled tot nieuw glas",
+      "category": "A",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 34
+    },
+    {
+      "code": "F 1700",
+      "title": "Productieapparatuur voor het vervangen van (potentiële) zeer zorgwekkende stoffen, nanodeeltjes of microplastics (aanpassen bestaande situatie)",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 34
+    },
+    {
+      "code": "F 1704",
+      "title": "Installatie voor het afbreken van microverontreinigingen in water",
+      "description": "bestemd voor: het aantoonbaar verminderen van de emissie van de volgende stoffen naar een rioolwaterzuivering of het oppervlaktewater door deze volledig af te breken tot onschadelijke componenten: 1. nanodeeltjes kleiner dan 50 nanometer, niet zijnde nutriënten, 2. microplastics kleiner dan 50 micrometer, 3. medicijnresten, 4. (potentiële) zeer zorgwekkende stoffen, niet zijnde (resten van) gewasbeschermingsmiddelen, of 5. opkomende stoffen die een belemmering vormen voor een duurzame drinkwaterproductie",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 35
+    },
+    {
+      "code": "A 1705",
+      "title": "Verwijderingsinstallatie voor microverontreinigingen in water",
+      "description": "bestemd voor: het aantoonbaar verminderen van de emissie van de volgende stoffen naar een rioolwaterzuivering of het oppervlaktewater door deze te verwijderen uit afvalwater: 1. nanodeeltjes kleiner dan 50 nanometer, niet zijnde nutriënten, 2. microplastics kleiner dan 50 micrometer, 3. medicijnresten, 4. (potentiële) zeer zorgwekkende stoffen, niet zijnde (resten van) gewasbeschermingsmiddelen, of 5. opkomende stoffen die een belemmering vormen voor een duurzame drinkwaterproductie",
+      "category": "A",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 36
+    },
+    {
+      "code": "F 1706",
+      "title": "Centrifugaal filter voor slijpsel van kunststoflenzen",
+      "description": "bestemd voor: het door centrifuge verwijderen van microplastics uit het koelwater dat nodig is voor het slijpen van kunststoflenzen, waarbij: - ten minste 85% van de in het afvalwater aanwezige microplastics worden verwijderd, en - het gezuiverde afvalwater opnieuw wordt gebruikt binnen de onderneming",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 36
+    },
+    {
+      "code": "A 1725",
+      "title": "Stofemissievrije denatureringsinstallatie voor asbesthoudende afvalstoffen of asbesthoudende grond",
+      "description": "bestemd voor: het stofemissievrij denatureren van asbesthoudende afvalstoffen of asbesthoudende grond door de asbestresten bij een temperatuur van minder dan 250 graden Celsius met behulp van natronloog of zuur af te breken, waarbij: - de asbestvezels volledig worden vernietigd, - de silicaathoudende filterkoek wordt gebruikt als bouwstof of als toeslagstof in de bouw, en - de uitloging van de bouwstof of toeslagstof de maximale emissiewaarden, genoemd in tabel 1 van bijlage A bij de Regeling bodemkwaliteit 2022, niet overschrijdt",
+      "category": "A",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 37
+    },
+    {
+      "code": "A 1726",
+      "title": "Thermische denatureringsinstallatie voor asbestcementproducten",
+      "description": "bestemd voor: het thermisch denatureren van asbestcementproducten waarbij: - de asbestvezels via verhitting volledig worden vernietigd, - het daarbij gevormde eindproduct wordt gebruikt als bouwstof of als toeslagstof in de bouw, en - de uitloging van de bouwstof of toeslagstof de maximale emissiewaarden, genoemd in tabel 1 van bijlage A bij de Regeling bodemkwaliteit 2022, niet overschrijdt",
+      "category": "A",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 37
+    },
+    {
+      "code": "F 1760",
+      "title": "Apparatuur of voorzieningen voor het voorkomen van plastics in het milieu",
+      "description": "bestemd voor: het voorkomen van de verspreiding van plastics in de vorm van granulaat, flakes, poeders of zwerfafval bij laden en lossen, productieprocessen of andere activiteiten binnen de industriële of bouwsector",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 37
+    },
+    {
+      "code": "F 2112",
+      "title": "Groen Label Kas voor biologische teelt",
+      "description": "bestemd voor: het op biologische wijze bedrijfsmatig telen van gewassen in een kas, waarbij: - is vastgesteld dat deze kas voldoet aan de eisen, bedoeld onder a van bedrijfsmiddel A 2113, en - uit een door Stichting Skal afgegeven bio-certificaat blijkt dat de gewassen biologisch worden geteeld",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 38
+    },
+    {
+      "code": "A 2113",
+      "title": "Groen Label Kas",
+      "description": "bestemd voor: het bedrijfsmatig telen van gewassen in een Groen Label Kas waarbij wordt voldaan aan de volgende eisen: - de kas voldoet aan de eisen van het Certificatieschema Groen Label Kas 16 (GLK.16), wat blijkt uit een kas-ontwerpcertificaat Groen Label Kas 16 (GLK.16) dat voor de meldingsdatum is afgegeven door een door de Raad van Accreditatie hiervoor geaccrediteerde organisatie",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 39
+    },
+    {
+      "code": "F 2130",
+      "title": "Mechanische of (micro)biologische bestrijdingsapparatuur voor plagen of ziekten in een tuinbouwkas",
+      "description": "bestemd voor: het bestrijden van plagen of ziekten in een tuinbouwkas, door: 1. het inzetten van natuurlijke vijanden voor (micro)biologische bestrijding, 2. het op mechanische wijze actief laten opvliegen en vangen van plaagdieren, of 3. het op mechanische wijze bestrijden van plaaginsecten met behulp van micro-drones",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 39
+    },
+    {
+      "code": "D 2131",
+      "title": "Luisdicht insectengaas of een machine voor het aanbrengen van insectengaas",
+      "description": "bestemd voor: het ter beperking van het gebruik van gewasbeschermingsmiddelen aanbrengen van: 1. vuilafstotend insectengaas in de luchtramen van kassen, waarbij de nadelige effecten daarvan op het klimaat in de kas worden gecompenseerd door actieve vochtregulatie, al dan niet in combinatie met warmteterugwinning en al dan niet in combinatie met insectengaas direct over de gewassen, of 2. insectengaas om de plantenpotten met een machine",
+      "category": "D",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": null,
+      "page": 40
+    },
+    {
+      "code": "A 2135",
+      "title": "Installatie voor het verhogen van de plantweerbaarheid in de glastuinbouw",
+      "description": "bestemd voor: het in een kas op biologische wijze verhogen van de weerbaarheid van planten tegen ziekten, waarbij geen chemische stoffen of metalen worden toegepast en waardoor het gebruik van gewasbeschermingsmiddelen wordt verminderd",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 40
+    },
+    {
+      "code": "F 2143",
+      "title": "Systeem voor individuele meting van nutriënten",
+      "description": "bestemd voor: het automatisch meten van de nutriëntconcentraties in voedingswater voor de glastuinbouw ten behoeve van het bepalen van de optimale voedingsgift en het verminderen van de hoeveelheid te lozen drainwater, waarbij de concentraties van ten minste de volgende nutriënten individueel worden gemeten: - natrium, - kalium, - magnesium, - calcium, - ammonium, - chloor, - nitraat, - sulfaat, - waterstofcarbonaat en - fosfaat",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 41
+    },
+    {
+      "code": "A 2145",
+      "title": "Installatie voor het ontzouten van drain(age)water in de glastuinbouw (aanpassing bestaande situatie)",
+      "description": "bestemd voor: het aantoonbaar vaker recirculeren van drain(age)water binnen het teeltproces ten opzichte van de bestaande situatie, door het verbeteren van de verwijdering van (natrium-)zouten, waardoor de lozing van drain(age)water verminderd of vermeden wordt en waarbij de investering op bedrijfsniveau niet leidt tot het lozen van meer brijn",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 41
+    },
+    {
+      "code": "F 2146",
+      "title": "Voorzieningen voor nullozing in de glastuinbouw (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het realiseren van nullozing in een bestaande tuinbouwkas, waarbij: - aangetoond wordt dat de investering bijdraagt aan nullozing zoals is omschreven in de Aanpak Aantonen Nullozing, zoals vastgesteld door het Platform Duurzame Glastuinbouw, of volgt uit een onderzoek naar de waterstromen op het bedrijf door een relevante onderzoek- of adviesorganisatie",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 42
+    },
+    {
+      "code": "F 2150",
+      "title": "Apparatuur voor het opwerken van plantenresten tot grondstof",
+      "description": "bestemd voor: het verwerken van plantenresten uit de glastuinbouw, al dan niet in combinatie met reststromen uit de oesterzwammenteelt, tot een grondstof voor een product, niet zijnde een brandstof of een meststof",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 42
+    },
+    {
+      "code": "F 2190",
+      "title": "Lekdetectiesysteem voor de teeltvloer",
+      "description": "bestemd voor: het met een geo-elektrisch meetsysteem detecteren van lekkages van teeltvloeren in kassen waarbij wordt voorkomen dat gewasbeschermingsmiddelen en meststoffen in het grond- en oppervlaktewater terechtkomen",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 42
+    },
+    {
+      "code": "B 2200",
+      "title": "Innovatieve stal",
+      "description": "bestemd voor: het houden van dieren in een innovatieve stal: - waarvoor één of meer omgevingsvergunningen als bedoeld in de Omgevingswet zijn aangevraagd voor de meldingsdatum en binnen drie jaar na de meldingsdatum de verleende vergunningen worden overgelegd, - die is voorzien van een huisvestingssysteem of aanvullende techniek die ammoniakemissie reduceert en die niet staat in bijlage V respectievelijk bijlage VI van de Omgevingsregeling",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 43
+    },
+    {
+      "code": "B 2201",
+      "title": "Stal voor biologische melk- of pluimveehouderij met ammoniakemissiereductie",
+      "description": "bestemd voor: het houden van melk- of pluimvee in een bedrijf dat dierlijke landbouwproducten produceert volgens de voorschriften van het Besluit dierlijke producten, wat blijkt uit een door Skal afgegeven certificaat Biologische Productie Nederland",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 44
+    },
+    {
+      "code": "B 2202",
+      "title": "Klimaat- en dierenmonitoringssysteem",
+      "description": "bestemd voor: het in een stal monitoren van dieren en meten van klimaatparameters, waardoor inzichtelijk wordt op welke manier het gebruik van antibiotica of hormonen op het bedrijf gereduceerd kan worden en vermindering van de ammoniakemissie mogelijk is",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 45
+    },
+    {
+      "code": "B 2203",
+      "title": "Desinfectiesysteem voor het in-situ desinfecteren van melkrobots",
+      "description": "bestemd voor: het met onderchlorigzuur (HOCl) desinfecteren van melkrobots door een in-situ desinfectiesysteem op basis van elektrolyse van natriumchloride (NaCl)",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 45
+    },
+    {
+      "code": "A 2204",
+      "title": "Formalinevrij bad voor de desinfectie van klauwen van vee",
+      "description": "bestemd voor: het met onderchlorigzuur (HOCl) desinfecteren van de klauwen van vee door het gebruik van een zelfvullend desinfectiebad, dat is aangesloten op een in-situ desinfectiesysteem op basis van elektrolyse van natriumchloride (NaCl)",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 45
+    },
+    {
+      "code": "A 2205",
+      "title": "Omgekeerde osmose-installatie voor het verwerken van spuiwater van een biologische luchtwasser",
+      "description": "bestemd voor: het verminderen van het waterverbruik van biologische luchtwassers met ten minste 60%, door met omgekeerde osmose het spuiwater te zuiveren",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 45
+    },
+    {
+      "code": "F 2206",
+      "title": "Apparatuur of voorzieningen voor gescheiden opvang van mest en urine in varkens- of rundveestallen (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het aan de bron gescheiden opvangen en bewaren van dierlijke mest en urine in bestaande varkens- of rundveestallen",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 46
+    },
+    {
+      "code": "B 2208",
+      "title": "Gasdichte voorziening voor een drijfmestopslag",
+      "description": "bestemd voor: het bij een veehouderij afdekken van een drijfmestopslag met een gasdichte voorziening, niet zijnde een (na)vergister of digestaatopslag, waardoor de methaanemissie wordt verminderd",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 46
+    },
+    {
+      "code": "B 2209",
+      "title": "Systeem voor mixen van drijfmest met luchtbellen (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het met luchtbellen mixen van drijfmest in een drijfmestkelder of mestsilo van een bestaand bedrijf zonder stal(ontwerp)certificaat MDV 12, 13, 14 of 15 dat mest produceert, verwerkt of transporteert",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 46
+    },
+    {
+      "code": "A 2210",
+      "title": "Duurzame melkveestal",
+      "description": "bestemd voor: het houden van melkrundvee in een stal met ten hoogste 250 dierplaatsen, waarbij de stal voldoet aan de eisen van de Maatlat Duurzame Veehouderij (MDV) 15 - melkveestallen",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 47
+    },
+    {
+      "code": "A 2211",
+      "title": "Duurzame vleeskalver- of vleesveestal",
+      "description": "bestemd voor: het houden van vleeskalveren of vleesvee in een stal met ten hoogste 1.250 dierplaatsen, waarbij de stal voldoet aan de eisen van de Maatlat Duurzame Veehouderij (MDV) 15 - vleeskalverstallen of vleesveestallen",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 48
+    },
+    {
+      "code": "F 2212",
+      "title": "Duurzame melkveestal met weidegang",
+      "description": "bestemd voor: het houden van melkrundvee in een stal met ten hoogste 250 dierplaatsen, waarbij de stal voldoet aan de eisen van de Maatlat Duurzame Veehouderij (MDV) 15 - melkveestallen met weidegang",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 49
+    },
+    {
+      "code": "B 2213",
+      "title": "Autonome mestverzamelrobot",
+      "description": "bestemd voor: het opzuigen of opnemen van koemest van dichte stalvloeren ter vermindering van de ammoniakemissie, klauw- en uierproblemen en antibioticagebruik, door een mestrobot die met behulp van sensoren zelfstandig door de stal navigeert",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 50
+    },
+    {
+      "code": "B 2217",
+      "title": "Getrokken elektrische voermengwagen voor herkauwers",
+      "description": "bestemd voor: het verstrekken van ruwvoer aan herkauwers met een getrokken voermengwagen, die is voorzien van een uitsluitend elektrische aandrijving",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 50
+    },
+    {
+      "code": "A 2218",
+      "title": "Automatisch ruwvoermengsysteem of zelfrijdend autonoom ruwvoersysteem voor herkauwers",
+      "description": "bestemd voor: het vergroten van de rantsoenefficiëntie en het verkleinen van de kans op voedingsstoornissen bij herkauwers door het automatisch en gemengd voeren van ruwvoeders",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 50
+    },
+    {
+      "code": "A 2220",
+      "title": "Duurzame varkensstal (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het houden van varkens in een stal met ten hoogste 7.500 dierplaatsen voor vleesvarkens of ten hoogste 1.200 dierplaatsen voor fokvarkens, waarbij de stal voldoet aan de eisen van de Maatlat Duurzame Veehouderij (MDV) 15 - varkensstallen",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 51
+    },
+    {
+      "code": "A 2230",
+      "title": "Duurzame pluimveestal (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het houden van pluimvee, niet zijnde eenden of kalkoenen, in een stal met ten hoogste 120.000 dierplaatsen voor leghennen of ten hoogste 220.000 dierplaatsen voor vleeskuikens",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 52
+    },
+    {
+      "code": "D 2235",
+      "title": "Stofemissiereducerende techniek voor een pluimveestal (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het verminderen van de emissie van stof van een pluimveestal zonder stal(ontwerp)certificaat MDV 14 of 15 door toepassing van één of meerdere technieken",
+      "category": "D",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": null,
+      "page": 53
+    },
+    {
+      "code": "B 2280",
+      "title": "Duurzame paardenstal",
+      "description": "bestemd voor: het houden van paarden of pony's in een stal die voldoet aan de eisen van de Maatlat Duurzame Veehouderij (MDV) 15 - paardenstallen, wat blijkt uit een stal(ontwerp)certificaat MDV 15 dat voor de meldingsdatum is afgegeven door een door de Raad voor Accreditatie hiervoor geaccrediteerde organisatie",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 54
+    },
+    {
+      "code": "B 2290",
+      "title": "Duurzame konijnen-, eenden- of kalkoenenstal",
+      "description": "bestemd voor: het houden van konijnen, eenden of kalkoenen in een stal die voldoet aan de eisen van de Maatlat Duurzame Veehouderij (MDV) 15 - konijnenstallen of pluimveestallen, onderdeel eenden- of kalkoenenstal",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 55
+    },
+    {
+      "code": "B 2291",
+      "title": "Duurzame melkgeiten- of melkschapenstal",
+      "description": "bestemd voor: het houden van melkgeiten of melkschapen in een stal met ten hoogste 1.500 dierplaatsen voor melkgeiten die voldoet aan de eisen van de Maatlat Duurzame Veehouderij (MDV) 15 - melkgeiten- of melkschapenstallen",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 56
+    },
+    {
+      "code": "E 2292",
+      "title": "Elektrische krachtvoerinstallatie voor melkgeiten",
+      "description": "bestemd voor: het gericht voeren van krachtvoer aan melkgeiten met een elektrische installatie, door specifiek het rantsoen per geit vast te stellen, waardoor minder krachtvoer wordt verspild, de diergezondheid verbetert, antibioticagebruik wordt verminderd en minder uitval van geiten optreedt",
+      "category": "E",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": null,
+      "page": 57
+    },
+    {
+      "code": "A 2300",
+      "title": "Apparatuur of voorzieningen voor het combineren van akkerbouw of veeteelt met bomen en struiken",
+      "description": "bestemd voor: het versterken van de biodiversiteit, het vastleggen van CO₂, het verbeteren van de organische stofopbouw in de bodem en het verbeteren van de weerbaarheid van landbouwgewassen of leefomstandigheden van vee, door akkerbouw of veeteelt in combinatie met aanplant van fruitbomen, notenbomen, bessenstruiken of kweekgoed",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 57
+    },
+    {
+      "code": "A 2313",
+      "title": "Productieapparatuur voor stroken- of pixelteelt",
+      "description": "bestemd voor: het versterken van de biodiversiteit en het verbeteren van de weerbaarheid van landbouwgewassen door het op eigen bedrijf in de open lucht telen van gewassen in stroken tot 30 meter breed, of pixels van ten hoogste 30 bij 30 meter breed",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 58
+    },
+    {
+      "code": "A 2314",
+      "title": "Klimaatcel voor gewasteelt",
+      "description": "bestemd voor: het produceren van gewassen, niet zijnde witlof of paddenstoelen, in een volledig geïsoleerde klimaatcel, niet zijnde een kas, waarbij voor de teelt uitsluitend gebruik wordt gemaakt van ledverlichting",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 58
+    },
+    {
+      "code": "F 2317",
+      "title": "Meerjarige kweektrays voor teelt in de open lucht (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het ter vervanging van het gebruik van wegwerptrays kweken van gewassen in de open lucht in meerjarige kweektrays die ten minste tien jaar meegaan en aan het einde van de levensduur worden gerecycled tot nieuwe meerjarige trays",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 59
+    },
+    {
+      "code": "F 2318",
+      "title": "Productie- en verwerkingsapparatuur voor biobased grondstoffen",
+      "description": "bestemd voor: het telen of verwerken van hennep, vlas of miscanthus, waarbij de gewassen worden verwerkt tot biobased grondstoffen",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 59
+    },
+    {
+      "code": "B 2322",
+      "title": "Plaatsspecifieke bemestingsapparatuur",
+      "description": "bestemd voor: het met een getrokken mobiel werktuig zodanig toedienen van organische meststoffen, bewerkte of verwerkte dierlijke mest dat rekening wordt gehouden met de plaatselijke omstandigheden door meting van de in de grond aanwezige voorraad meststoffen",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 59
+    },
+    {
+      "code": "B 2324",
+      "title": "Spuitmachine met detectiesensoren of camera's voor plaatsspecifieke toediening",
+      "description": "bestemd voor: het bestrijden van ziekten, plagen en onkruiden door het plaatsspecifiek toedienen van gewasbeschermingsmiddelen aan een gewas in de open teelt waarbij sensoren of camera's detecteren waar het gewas aangetast is of waar de plant of het onkruid staat",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 60
+    },
+    {
+      "code": "A 2330",
+      "title": "Stoomunit voor planten, uitgangsmateriaal of bloembollen",
+      "description": "bestemd voor: het voorkomen en bestrijden van plagen of ziekten door planten, uitgangsmateriaal of bloembollen te verhitten met stoom, waarbij geen stoffen of metalen worden toegediend en waardoor het gebruik van gewasbeschermingsmiddelen wordt verminderd",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 60
+    },
+    {
+      "code": "B 2338",
+      "title": "Insectengaas voor de fruitteelt",
+      "description": "bestemd voor: het verminderen van schade aan fruit door insecten en het gebruik en de verspreiding van chemische middelen in de fruitteelt in de open lucht, door toepassing van insectengaas met een maasopening van ten hoogste 0,98 vierkante millimeter",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 60
+    },
+    {
+      "code": "E 2339",
+      "title": "Hagelnetten voor de fruitteelt",
+      "description": "bestemd voor: het verminderen van het gebruik en de verspreiding van chemische middelen in de fruitteelt en het voorkomen van hagelschade aan fruit door toepassing van hagelnetten",
+      "category": "E",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": null,
+      "page": 60
+    },
+    {
+      "code": "E 2342",
+      "title": "Volautomatische fusten- of kistenreiniger met gesloten wassysteem",
+      "description": "bestemd voor: het reinigen van fusten of kisten voor de opslag van landbouwproducten met een reinigingsinstallatie die op het eigen bedrijfsterrein staat opgesteld",
+      "category": "E",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": null,
+      "page": 61
+    },
+    {
+      "code": "F 2343",
+      "title": "Fosfaatabsorptie met ijzerzand in de bloembollenteelt",
+      "description": "bestemd voor: het voorkomen van afspoeling van fosfaat via het drainwater van bloembollenpercelen door met ijzerzand omhulde drains in het perceel, ijzerzand als absorberende laag in het perceel, of ijzerzand in een aan een bloembollen perceel grenzende oever of watergang",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 61
+    },
+    {
+      "code": "A 2346",
+      "title": "Chloorbleekloogvrije ontsmettingsinstallatie voor bloembollen (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het door elektrolyse uit water en natriumchloride produceren van chloorhoudend ontsmettingsmiddel, ter vervanging van ontsmetting van bloembollen met chloorbleekloog",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 61
+    },
+    {
+      "code": "D 2351",
+      "title": "Intrarijwieder",
+      "description": "bestemd voor: het mechanisch of pneumatisch bestrijden van onkruid zowel tussen als in de rijen van het gewas",
+      "category": "D",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": null,
+      "page": 61
+    },
+    {
+      "code": "B 2352",
+      "title": "Mechanische onkruidtrekker, -knipper of -snijder",
+      "description": "bestemd voor: het uittrekken of doorsnijden van de dikkere stengels van onkruid met een machine voorzien van een trek-, kam-, knip- of snijtechniek, waarbij het geteelde gewas niet wordt beschadigd en de onkruiddruk in akkerbouwgewassen of grasland wordt verminderd",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 62
+    },
+    {
+      "code": "A 2353",
+      "title": "Precisiezaaimachine met voorzieningen voor sojateelt",
+      "description": "bestemd voor: het zaaien van sojazaden en al dan niet andere zaden met een precisiezaaimachine zodat er een optimale verdeling van de zaden per vierkante meter plaatsvindt en waarbij het gps/gis-systeem een afwijking heeft van ten hoogste 10 centimeter",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 62
+    },
+    {
+      "code": "A 2354",
+      "title": "Flexibel maaibord voor het oogsten van sojabonen",
+      "description": "bestemd voor: het laag bij de grond oogsten van sojabonen met een flexibel maaibord",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 62
+    },
+    {
+      "code": "A 2355",
+      "title": "Onkruidbestrijdingsmachine op basis van stroom (hoogspanning)",
+      "description": "bestemd voor: het bestrijden van onkruid in de landbouw door het toedienen van stroom door een machine die stroom genereert en waarbij applicatoren de hoogspanning naar het onkruid overbrengen waardoor het onkruid geëlektrocuteerd wordt",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 62
+    },
+    {
+      "code": "A 2356",
+      "title": "Mechanische bestrijdingsapparatuur voor plagen in land- en tuinbouwgewassen in de open teelt",
+      "description": "bestemd voor: het bestrijden van plaaginsecten door het op mechanische wijze vangen en vernietigen van plaaginsecten bij teelt in de open lucht",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 62
+    },
+    {
+      "code": "A 2357",
+      "title": "Onkruidbestrijdingsmachine met behulp van lasers",
+      "description": "bestemd voor: het bestrijden van onkruid in de landbouw met een mobiele onkruidbestrijdingsmachine, niet zijnde een autonome mobiele onkruidbestrijdingsmachine, die met behulp van camera's het onkruid detecteert waarna lasers het onkruid vernietigen",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 63
+    },
+    {
+      "code": "A 2359",
+      "title": "Elektrisch aangedreven wiedbed of selectiewagen",
+      "description": "bestemd voor: het wieden van onkruid met een wiedbed, of het selecteren van het gewas met een selectiewagen, niet zijnde een getrokken wiedbed of selectiewagen, dat is voorzien van zit- of ligplaatsen voor mensen die onkruid wieden of het gewas selecteren",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 63
+    },
+    {
+      "code": "A 2360",
+      "title": "Doseereenheid voor vloeibare meststoffen met gps-gestuurde afschakeling per rij",
+      "description": "bestemd voor: het gelijktijdig met het zaaien, poten, planten, frezen, schoffelen of aanaarden per rij gedoseerd toedienen van vloeibare kunstmest of de vloeibare fractie die rest na de verwerking van dierlijke meststoffen, in de grond vlak bij het zaad, de knol of het plantje",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 63
+    },
+    {
+      "code": "A 2375",
+      "title": "Mulch-apparatuur",
+      "description": "bestemd voor: het ter bescherming, verbetering en voorkoming van erosie van de bodem aanbrengen van een mulchlaag bestaande uit organisch restmateriaal, niet zijnde bokashi, compost, stro of mest, voor teelt in de open lucht",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 63
+    },
+    {
+      "code": "B 2391",
+      "title": "Versnipperaar voor kunststofafval van een landbouwbedrijf",
+      "description": "bestemd voor: het op locatie van een eigen landbouwbedrijf versnipperen van kunststof bussen, fusten en ander kunststofafval, niet zijnde landbouwfolie of landbouwplastic, waarbij het kunststofafval: - afkomstig is van het eigen landbouwbedrijf, - gescheiden wordt aangeboden aan een afvalverwerkend bedrijf waar dat in de huidige situatie nog niet het geval is, en - wordt gerecycled tot nieuwe kunststofproducten",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 64
+    },
+    {
+      "code": "F 2410",
+      "title": "Duurzame viskwekerij",
+      "description": "bestemd voor: het kweken van vis in een viskwekerij, waarbij: - de juveniele vissen verkregen worden van gekweekte ouderdieren, - geen sprake is van opkweken in open water, - het effluent ten minste even schoon is als het ingenomen water, - de kwaliteit van het effluent real-time wordt gemonitord, - het verstrekte voer (deels) gekweekt wordt of bestaat uit al dan niet bewerkte afvalstromen, en - de verwerking en transport van de vis voldoet aan de eisen van bedrijfsmiddel F 2612",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 64
+    },
+    {
+      "code": "F 2411",
+      "title": "Duurzame pootviskwekerij",
+      "description": "bestemd voor: het opkweken van pootvis in een viskwekerij, waarbij: - de pootvis verkregen wordt van gekweekte ouderdieren, - geen sprake is van opkweken in open water, - het effluent ten minste even schoon is als het ingenomen water, - de kwaliteit van het effluent real-time wordt gemonitord, en - het verstrekte voer (deels) gekweekt wordt of bestaat uit al dan niet bewerkte afvalstromen",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 64
+    },
+    {
+      "code": "F 2420",
+      "title": "Schaal- en schelpdierbroedinstallatie",
+      "description": "bestemd voor: het broeden en opkweken van schaal- en schelpdieren uit ouderdieren, waarbij: - geen sprake is van broeden en opkweken in open water, - het effluent ten minste even schoon is als het ingenomen water, - de kwaliteit van het effluent real-time wordt gemonitord, en - et verstrekte voer (deels) gekweekt wordt of bestaat uit al dan niet bewerkte afvalstromen",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 65
+    },
+    {
+      "code": "F 2421",
+      "title": "Schaal- of schelpdierkwekerij",
+      "description": "bestemd voor: het kweken van schelp- of schaaldieren, waarbij: - de juveniele schelp- of schaaldieren worden verkregen van gekweekte ouderdieren, - geen sprake is van broeden en opkweken in open water, - het effluent ten minste even schoon is als het ingenomen water, - de kwaliteit van het effluent real-time wordt gemonitord, en - het verstrekte voer (deels) gekweekt wordt of bestaat uit al dan niet bewerkte afvalstromen",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 65
+    },
+    {
+      "code": "D 2430",
+      "title": "Productiesysteem voor algen, kroos of (zee)wieren",
+      "description": "bestemd voor: het produceren van algen, kroos of (zee)wieren: - voor toepassing als grondstof in producten, niet zijnde brandstoffen, geneesmiddelen, voedingssupplementen en cosmeticaproducten, en - waarbij de terugverdientijd van het bedrijfsmiddel vijf jaar of meer bedraagt, uitgaande van de bijkomende investeringskosten en het saldo van de operationele baten en lasten, niet zijnde financieringslasten en afschrijving, ten opzichte van niet investeren in een productiesysteem voor algen, kroos of (zee)wieren",
+      "category": "D",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": null,
+      "page": 65
+    },
+    {
+      "code": "F 2510",
+      "title": "Akoestische afschrikkingsapparatuur aan visnetten",
+      "description": "bestemd voor: het ter vermijding van bijvangst verdrijven van walvisachtigen door aan visnetten bevestigde apparatuur die ultrasoon geluid produceert met een variabele pulssnelheid, voor zover die visnetten niet genoemd zijn in bijlage I van Verordening (EG) nr. 812/2004 van de Raad van 26 april 2004 tot vaststelling van maatregelen betreffende de bijvangsten van walvisachtigen bij de visserij en tot wijziging van Verordening (EG) nr. 88/98",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 66
+    },
+    {
+      "code": "F 2511",
+      "title": "Boomkor vervangende visinstallatie op een bestaand visserijschip",
+      "description": "bestemd voor: het op een bestaand visserijschip verminderen van bijvangst en schade aan de onderwaterbodem door het volledig vervangen van boomkorvistuig en -installaties door een alternatieve visinstallatie, waarbij uit de op de meldingsdatum geldende vismachtiging die de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur voor het schip heeft afgegeven, blijkt dat niet meer met boomkor wordt gevist",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 66
+    },
+    {
+      "code": "F 2601",
+      "title": "Verwerkingsapparatuur voor het beperken van voedselverspilling in de voedingsmiddelenindustrie",
+      "description": "bestemd voor: het in de voedingsmiddelenindustrie tot humane voedingsmiddelen verwerken van hoogwaardige voedingsmiddelen, die worden gezien als overschotten, minder vers zijn of zijn afgekeurd, waarbij: - de geproduceerde voedingsmiddelen voldoen aan geldende wetgeving op gebied van traceerbaarheid en voedselveiligheid, - de verwerkte voedingsmiddelen in de gangbare praktijk een laagwaardigere toepassing zoals vergisting, compostering of verwerking tot diervoeder zouden krijgen, - wordt aangetoond dat de verwerking een milieubelasting heeft die ten hoogste gelijk is aan de gangbare verwerking van de betreffende stroom, en - het restproduct al dan niet een energietoepassing krijgt",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 67
+    },
+    {
+      "code": "F 2605",
+      "title": "Apparatuur voor het opwaarderen van plantaardige (rest)stromen tot voedingsmiddelen",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 67
+    },
+    {
+      "code": "F 2612",
+      "title": "Verwerkingsapparatuur voor diervriendelijke verwerking van gekweekte vis",
+      "description": "bestemd voor: het slachten en verwerken van gekweekte vis, waarbij: - de verwerking plaatsvindt binnen 25 kilometer van de kwekerij, - de vis voorafgaand aan het slachten binnen één seconde wordt bedwelmd, verdoofd of hersendood gemaakt en gedood zonder dat de vis bijkomt, en - op de transportwagen voor aan- en afvoer van levende vis, apparatuur aanwezig is die tijdens transport het zuurstofniveau meet en aanpast waardoor het zuurstofgehalte ten hoogste 110% bedraagt en meetapparatuur voor de waterkwaliteit aanwezig is die ten minste de watertemperatuur meet en de mogelijkheid biedt dit tijdens transport automatisch bij te sturen",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 67
+    },
+    {
+      "code": "F 2613",
+      "title": "Verwerkingsapparatuur voor algen, kroos of (zee)wieren",
+      "description": "bestemd voor: het verwerken van algen, kroos of (zee)wieren tot grondstof voor humane voedingsproducten, diervoeders of biostimulanten, waarbij de terugverdientijd van het bedrijfsmiddel vijf jaar of meer bedraagt, uitgaande van de bijkomende investeringskosten en het saldo van de operationele baten en lasten, niet zijnde financieringslasten en afschrijving, ten opzichte van niet investeren in verwerkingsapparatuur voor algen, kroos of (zee)wieren",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 68
+    },
+    {
+      "code": "B 2615",
+      "title": "Volautomatische optische sorteerinstallatie voor wortelen",
+      "description": "bestemd voor: het met een camerasysteem automatisch sorteren van wortelen zodat er qua vorm, maat en kwaliteit uniforme partijen worden verkregen waardoor uitval nagenoeg voorkomen wordt en waarbij sortering van wortelen op ten minste gewicht, diameter, lengte, kleur en externe kwaliteit plaatsvindt",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 68
+    },
+    {
+      "code": "A 2630",
+      "title": "Bevochtigingsapparatuur voor verse voedingsmiddelen in de horeca",
+      "description": "bestemd voor: het met ultrasone techniek uit gezuiverd water gecreëerde aerosolen kleiner dan 5 micron bedekken van verse voedingsmiddelen in de horeca, zodat in de directe omgeving van de voedingsmiddelen de luchtvochtigheid toeneemt en de temperatuur daalt, waardoor de voedingsmiddelen langer houdbaar blijven en voedselverspilling wordt voorkomen",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 68
+    },
+    {
+      "code": "A 2650",
+      "title": "Terugwinningsinstallatie voor fosfaat of stikstof uit dierlijke mest",
+      "description": "bestemd voor: het behandelen van dierlijke mest, waarbij: 1. het stikstofhoudend concentraat wordt behandeld door: - de vloeibare stikstof om te zetten in ammoniak door verhoging van de zuurgraad of verwarming en het ontstane ammoniak te wassen met zuur, waardoor een ammoniumzout ontstaat dat nuttig wordt toegepast, of - indamping door middel van vacuüm, mechanische damprecompressie en destillatie, waardoor er kaliconcentraat en ammoniakwater ontstaat dat nuttig toegepast wordt, of - het toepassen van omgekeerde osmose op de dunne fractie waardoor deze opgewaardeerd wordt naar een mineralenconcentraat dat nuttig wordt toegepast, of 2. het fosfaathoudend concentraat wordt behandeld door: - pyrolyse, of - toepassing van ongebluste kalk, of - het doen neerslaan van struvietkristallen",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 69
+    },
+    {
+      "code": "A 2651",
+      "title": "Plasma-installatie voor behandelen van dierlijke mest",
+      "description": "bestemd voor: het scheiden en behandelen van dierlijke mest door middel van plasmatechnologie waardoor de mest omgezet wordt in een meer efficiënte meststof, de zuurgraad van de mest daalt en de emissies van ammoniak en methaan en het gebruik van kunstmest vermindert, waarbij: - ten minste 50% van de benodigde elektriciteit duurzaam is opgewekt in Nederland, en - ten minste 50% van de ontstane warmte wordt hergebruikt",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 69
+    },
+    {
+      "code": "B 2652",
+      "title": "Apparatuur voor het verminderen van ammoniak- en methaanemissies tijdens uitrijden van dierlijke mest",
+      "description": "bestemd voor: het tijdens het uitrijden met een zuur behandelen van dierlijke mest, waardoor: - de zuurgraad van de mest daalt, en - de emissies van ammoniak en methaan en het gebruik van kunstmest verminderen",
+      "category": "B",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 70
+    },
+    {
+      "code": "F 2700",
+      "title": "Productieapparatuur voor vlees-, vis- en zuivelvervangers",
+      "description": "bestemd voor: het vervaardigen van plantaardige alternatieven voor vlees-, vis- en zuivelproducten, waarbij: - de gangbare producten op basis van dierlijke eiwitten worden vervaardigd, - het plantaardige alternatief milieuvriendelijker is dan het gangbare product van dierlijke oorsprong dat het vervangt, - de plantaardige alternatieven worden vervaardigd op basis van in Europa geteelde plantaardige grondstoffen of (grondstoffen uit) schimmels, - alternatieven voor vlees en vis ten minste 5,0 gram eiwit per 100 gram product bevatten, - alternatieven voor eetzuivel ten minste 2,5 gram eiwit per 100 gram product bevatten, - alternatieven voor drinkzuivel ten minste 1,0 gram eiwit per 100 milliliter product bevatten, en - de terugverdientijd van het bedrijfsmiddel vijf jaar of meer bedraagt",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 70
+    },
+    {
+      "code": "F 2714",
+      "title": "Apparatuur voor de winning van blad-eiwit",
+      "description": "bestemd voor: de winning van wateroplosbaar blad-eiwit uit geteelde gewassen of agrarische reststromen voor de toepassing in humane voedingsproducten of diervoeders",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 70
+    },
+    {
+      "code": "F 2715",
+      "title": "Apparatuur voor de winning van eiwit",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 71
+    },
+    {
+      "code": "A 2720",
+      "title": "Insectenkweeksysteem",
+      "description": "bestemd voor: het kweken van insecten ter vervanging van andere eiwitbronnen voor humane voeding waarbij de kweek van de insecten en het voedsel voor de insecten, dat niet bestaat uit (bestanddelen van) vis, wettelijk zijn toegestaan",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 71
+    },
+    {
+      "code": "F 2721",
+      "title": "Verwerkingsapparatuur voor insecten",
+      "description": "bestemd voor: het verwerken van insecten tot een product voor humane consumptie dat wettelijk is toegestaan",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 71
+    },
+    {
+      "code": "F 2722",
+      "title": "Verwerkingsapparatuur van laagwaardige plantaardige reststromen tot voedsel voor insectenkweek",
+      "description": "bestemd voor: de verwerking van een laagwaardige plantaardige en aantoonbaar onvermijdbare reststroom, waarbij: - de reststroom wordt ingezet als voedsel voor insecten, - de reststroom in de gangbare praktijk laagwaardiger wordt ingezet zoals voor vergisting of compostering, - het voedsel voor de insecten wettelijk is toegestaan, - de insecten worden gekweekt voor de productie van voedingsmiddelen of ingrediënten voor humane consumptie, - wordt aangetoond dat de verwerking milieuvriendelijker is dan de gangbare verwerking van de betreffende stroom, en - de terugverdientijd van het bedrijfsmiddel drie jaar of meer bedraagt",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 72
+    },
+    {
+      "code": "F 2810",
+      "title": "Ondergrondse waterberging",
+      "description": "bestemd voor: het in de land- of tuinbouw, of in een samenwerkingsverband tussen agrarische en niet-agrarische ondernemingen, individueel of collectief opslaan van: 1. regenwater in ondergrondse bodemlagen, niet zijnde een warmte-koude opslag (WKO) of systeem voor geothermie, waarbij door het bevoegd gezag schriftelijk toestemming is verleend voor de ondergrondse wateropslag, of 2. regen- of recirculatiewater in een afgesloten voorziening onder een tuinbouwkas of gebouw",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 72
+    },
+    {
+      "code": "A 2812",
+      "title": "Apparatuur voor verminderd gebruik van grondwater als gietwater in de glastuinbouw (aanpassing bestaande situatie)",
+      "description": "bestemd voor: het verminderen van de hoeveelheid opgepompt grondwater voor de productie van gietwater voor gebruik in de glastuinbouw met ten minste 45% ten opzichte van de bestaande situatie, waarbij: - eventuele wijzigingen in de teeltcapaciteit en gewasbehoefte van de kas in de berekening van de besparing worden meegenomen, - de vermindering wordt gerealiseerd door het terugwinnen van water en grondstoffen uit brijn of de vergroting van regenwatergebruik, waarbij per hectare teeltoppervlak meer regenwater wordt opgeslagen dan wettelijk verplicht, en - er geen brijn in de bodem wordt gebracht",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 73
+    },
+    {
+      "code": "A 2820",
+      "title": "Productieapparatuur voor paludicultuur (natte teelt)",
+      "description": "bestemd voor: het op het eigen bedrijf of op terrein met natuurbestemming telen van de gewassen lisdodde, cranberry, kroosvaren of veenmos, waarbij: - er geen gebruik wordt gemaakt van bestrijdingsmiddelen, kunstmest en andere chemische toevoegingen, en - een investering die naar aard, gebruik en toepassing overeenkomt met een ander in deze bijlage omschreven bedrijfsmiddel moet voldoen aan de vereisten van het betreffende bedrijfsmiddel",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 73
+    },
+    {
+      "code": "G 2830",
+      "title": "Voorziening voor het benutten van effluent in de glastuinbouw of open teelt",
+      "description": "bestemd voor: het benutten van het gezuiverde effluent van een rioolwaterzuiveringsinstallatie als gietwater in de glastuinbouw of bevloeiing in de open teelt, waarbij: - het effluent niet over de weg wordt vervoerd, - de investering op bedrijfsniveau niet leidt tot het lozen van meer brijn, - voor het toepassen van het effluent toestemming is verleend door het bevoegd gezag, en - de terugverdientijd van het bedrijfsmiddel drie jaar of meer bedraagt",
+      "category": "G",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": null,
+      "page": 73
+    },
+    {
+      "code": "F 2832",
+      "title": "Druppelbevloeiingssysteem voor open teelten (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het ter vervanging van een beregeningsinstallatie met een druppelsysteem gereguleerd doseren van water en al dan niet meststoffen aan gewassen in de vollegrondteelt, niet zijnde glastuinbouw, ter voorkoming van uitspoeling en ter besparing van (grond)water",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 74
+    },
+    {
+      "code": "A 2834",
+      "title": "Regen- of spoelwateropslag voor het verdunnen van mest",
+      "description": "bestemd voor: het opslaan van regenwater of spoelwater voor het verdunnen van drijfmest in de veehouderij, akkerbouw, bloembollen-, boom-, fruit- of vollegrondteelt",
+      "category": "A",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 74
+    },
+    {
+      "code": "G 3104",
+      "title": "Waterstof aangedreven bestelauto",
+      "description": "bestemd voor: het vervoer van goederen met een bestelauto die behoort tot de Europese voertuigcategorie N1 of N2, en is voorzien van een uitsluitend elektrische aandrijving, waarbij de voor de aandrijving benodigde energie wordt geleverd door een brandstofcel en al dan niet een accupakket",
+      "category": "G",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": null,
+      "page": 75
+    },
+    {
+      "code": "A 3108",
+      "title": "Elektrisch aangedreven bus (touringcar en OV-bus)",
+      "description": "bestemd voor: het vervoer van personen met een elektrisch aangedreven bus, die behoort tot de Europese voertuigcategorie M2 of M3, en is voorzien van een uitsluitend elektrische aandrijving, waarbij de voor de aandrijving benodigde energie wordt geleverd door een accupakket dat geen lood bevat",
+      "category": "A",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 76
+    },
+    {
+      "code": "G 3109",
+      "title": "Waterstof aangedreven personenauto",
+      "description": "bestemd voor: het vervoer van personen met een uitsluitend elektrisch aangedreven personenauto, niet zijnde een taxi voor rolstoelvervoer of met 9 zitplaatsen, waarbij de voor de aandrijving benodigde energie wordt geleverd door een brandstofcel en al dan niet een accupakket",
+      "category": "G",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": null,
+      "page": 76
+    },
+    {
+      "code": "D 3111",
+      "title": "Elektrisch aangedreven personenauto met zonnepanelen",
+      "description": "bestemd voor: het vervoer van personen met een uitsluitend elektrisch aangedreven personenauto die is voorzien van in het voertuig geïntegreerde zonnepanelen, waarbij de voor de aandrijving benodigde energie wordt opgeslagen in een accupakket dat geen lood bevat",
+      "category": "D",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 36,
+      "vamil_percentage": null,
+      "page": 76
+    },
+    {
+      "code": "F 3112",
+      "title": "Waterstof aangedreven taxi met 9 zitplaatsen of voor rolstoelvervoer",
+      "description": "bestemd voor: het vervoer van personen met een voertuig waarvoor in het kentekenregister de vermelding 'taxi' is opgenomen, dat is voorzien van 9 zitplaatsen of een inrichting voor het vervoer van rolstoelgebruikers in hun rolstoel",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 77
+    },
+    {
+      "code": "F 3115",
+      "title": "Waterstof aangedreven bus (touringcar en OV-bus)",
+      "description": "bestemd voor: het vervoer van personen met een bus, die behoort tot de Europese voertuigcategorie M2 of M3, en is voorzien van een waterstofverbrandingsmotor, of uitsluitend elektrische aandrijving, waarbij de voor de aandrijving benodigde energie wordt geleverd door een brandstofcel",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 77
+    },
+    {
+      "code": "A 3116",
+      "title": "Elektrisch of waterstof aangedreven vrachtwagen",
+      "description": "bestemd voor: het vervoer van goederen met een bakwagenchassis of vrachtwagentrekker, die behoort tot de Europese voertuigcategorie N2 of N3, en is voorzien van een waterstofverbrandingsmotor, of een uitsluitend elektrische aandrijving",
+      "category": "A",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 78
+    },
+    {
+      "code": "F 3117",
+      "title": "Elektrisch of waterstof aangedreven truckmixer",
+      "description": "bestemd voor: het vervoeren van mortel met een truckmixer, die behoort tot de Europese voertuigcategorie N2 of N3, en is voorzien van een waterstofverbrandingsmotor, of een uitsluitend elektrische aandrijving",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 78
+    },
+    {
+      "code": "A 3119",
+      "title": "Elektrisch aangedreven bakfiets of cargobike",
+      "description": "bestemd voor: het vervoer van goederen of personen met een elektrisch aangedreven bakfiets of cargobike, waarbij de bakfiets of cargobike een ledige voertuigmassa heeft van ten minste 75 kilogram, en de bakfiets of cargobike is voorzien van trapondersteuning",
+      "category": "A",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 79
+    },
+    {
+      "code": "F 3120",
+      "title": "Elektrisch aangedreven bakfiets of cargobike met zonnepanelen",
+      "description": "bestemd voor: het vervoer van goederen of personen met een elektrisch aangedreven bakfiets of cargobike, waarbij de bakfiets of cargobike een ledige voertuigmassa heeft van ten minste 75 kilogram, de bakfiets of cargobike is voorzien van trapondersteuning, en de zonnepanelen onlosmakelijk verbonden zijn aan de (bak)fiets",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 79
+    },
+    {
+      "code": "F 3210",
+      "title": "Toegangssysteem voor een waterstof of elektrisch aangedreven deelauto",
+      "description": "bestemd voor: het van een toegangssysteem voorzien van een waterstof of elektrisch aangedreven deelauto die wordt ingezet door een deelautobedrijf, waarbij het toegangssysteem het mogelijk maakt de auto met een pas of app te openen",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 79
+    },
+    {
+      "code": "F 3211",
+      "title": "Oplaadkluis voor het laden van lithium-ion accu's van fietsen, brom- of snorfietsen",
+      "description": "bestemd voor: het laden van lithium-ion accu's van elektrische fietsen, brom- of snorfietsen in een oplaadkluis, waarbij de kluis gecertificeerd is volgens VDMA 24994",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 80
+    },
+    {
+      "code": "B 3320",
+      "title": "Duurzame aandrijving voor een zeeschip",
+      "description": "bestemd voor: de voortstuwing van een zeeschip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, niet zijnde een visserschip, dat in staat is te functioneren op brandstoffen met CO₂-vrije directe (uitlaat)emissies",
+      "category": "B",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 80
+    },
+    {
+      "code": "F 3321",
+      "title": "Waterstofaandrijving voor een schip",
+      "description": "bestemd voor: de energievoorziening of voortstuwing van een vaartuig, niet zijnde een vissersschip, door een hoofdmotor die bestaat uit een brandstofcel met waterstof als brandstof in combinatie met een elektromotor en een accupakket dat geen lood bevat, of een waterstofmotor",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 80
+    },
+    {
+      "code": "D 3322",
+      "title": "Elektrische aandrijving voor een schip",
+      "description": "bestemd voor: de voortstuwing van een schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, niet zijnde een vissersschip, waarbij het schip niet voorzien is van een verbrandingsmotor",
+      "category": "D",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 36,
+      "vamil_percentage": null,
+      "page": 80
+    },
+    {
+      "code": "B 3332",
+      "title": "Fouling release systeem voor een scheepshuid",
+      "description": "bestemd voor: het beschermen van de scheepshuid tegen corrosie en aangroei met een folie of een verfsysteem dat biocidevrij, kopervrij, teervrij en niet zelfslijpend is, en waarbij de aangebrachte fouling release gegarandeerd gedurende ten minste zeven jaar niet hoeft te worden vervangen",
+      "category": "B",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 81
+    },
+    {
+      "code": "F 3333",
+      "title": "Systeem voor het voorkomen of verwijderen van aangroei aan boord van een vaartuig",
+      "description": "bestemd voor: het aan boord van een vaartuig voorkomen of verwijderen van aangroei in leidingen, warmtewisselaars of andere plaatsen die in contact staan met het oppervlaktewater, waarbij geen metalen anode wordt gebruikt",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 81
+    },
+    {
+      "code": "F 3334",
+      "title": "Meetsysteem om aan boord van een tankschip gesloten metingen uit te voeren",
+      "description": "bestemd voor: het uitvoeren van metingen en visuele inspecties in de laadruimte van tankschepen voor de binnenvaart van type N of Type C zonder dat de laadruimte wordt geopend, waarbij monstername niet wordt gezien als meting",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 81
+    },
+    {
+      "code": "B 3340",
+      "title": "Biologische waterzuiveringsinstallatie voor een vaartuig",
+      "description": "bestemd voor: het met een vast opgestelde afvalwaterzuiveringsinstallatie die water op een biologische wijze zuivert, zuiveren en al dan niet recyclen van huishoudelijk (of hiermee vergelijkbaar) afvalwater dat is ontstaan aan boord van een vaartuig",
+      "category": "B",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 82
+    },
+    {
+      "code": "B 3341",
+      "title": "Oxidatiereactor voor waterreiniging aan boord van een vaartuig (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het bij een bestaand schip vervangen van legionellapreventie door heet water, chloor of chemicaliën door ontsmetting van het drinkwatersysteem met ozon, waterstofperoxide, uv-bestraling of een combinatie van deze technieken",
+      "category": "B",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 82
+    },
+    {
+      "code": "B 3342",
+      "title": "Waterzuiveringsinstallatie voor een pleziervaartuig (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het zuiveren van toiletwater ontstaan aan boord van een bestaand pleziervaartuig met een vast opgestelde zuiveringsvoorziening die voldoet aan de wettelijke voorschriften voor zuiveringsvoorzieningen aan boord van een pleziervaartuig",
+      "category": "B",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 82
+    },
+    {
+      "code": "B 3343",
+      "title": "Vuilwatertank voor een passagiersschip (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het in een vuilwatertank opslaan van huishoudelijk (of hiermee vergelijkbaar) afvalwater dat is ontstaan aan boord van een bestaand vaartuig, waarbij de vuilwatertank een zodanige opslagcapaciteit heeft dat lozing op oppervlaktewater wordt voorkomen",
+      "category": "B",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 83
+    },
+    {
+      "code": "A 3344",
+      "title": "Vuilwaterinnamestation voor vaartuigen",
+      "description": "bestemd voor: het bij een jachthaven, langs een vaarroute of bij een aanmeer-, afmeer- of een ligplaats innemen van bilgewater, zwartwater, de inhoud van chemische toiletten van pleziervaartuigen, of huishoudelijk afvalwater van plezier- en beroepsvaartuigen",
+      "category": "A",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 83
+    },
+    {
+      "code": "G 3390",
+      "title": "Walstroomaansluiting aan boord van een binnenschip",
+      "description": "bestemd voor: het gebruik maken van aangeboden walstroom aan boord van een binnenschip, niet zijnde een pleziervaartuig, dat is voorzien van een eigen aandrijving en bestemd is voor het vervoer van personen of goederen",
+      "category": "G",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 84
+    },
+    {
+      "code": "G 3391",
+      "title": "Walstroomaansluiting aan boord van een zeeschip",
+      "description": "bestemd voor: het gebruik maken van aangeboden walstroom aan boord van een zeeschip, niet zijnde een pleziervaartuig, dat is voorzien van een eigen aandrijving en bestemd is voor het vervoer van personen of goederen",
+      "category": "G",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 84
+    },
+    {
+      "code": "D 3395",
+      "title": "Walstroominstallatie op de kade",
+      "description": "bestemd voor: het leveren van walstroom aan eigen schepen, niet zijnde pleziervaartuigen, zodat de eigen boordgeneratoren niet gebruikt worden als de schepen aan de kade liggen en waarbij de accu's van de vaartuigen niet opgeladen worden",
+      "category": "D",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 84
+    },
+    {
+      "code": "E 3413",
+      "title": "Elektrisch aangedreven mobiel werktuig",
+      "description": "bestemd voor: het verrichten van werkzaamheden, niet zijnde het vervoeren van goederen of personen: 1. op een vaartuig, of 2. op land in de open lucht en al dan niet in een stal",
+      "category": "E",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 85
+    },
+    {
+      "code": "E 3414",
+      "title": "Elektrisch aangedreven mobiel werktuig op netspanning",
+      "description": "bestemd voor: het verrichten van werkzaamheden, niet zijnde het vervoeren van goederen of personen, op land in de open lucht met een elektrisch aangedreven mobiel werktuig",
+      "category": "E",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 86
+    },
+    {
+      "code": "D 3417",
+      "title": "Elektrisch aangedreven terminaltrekker",
+      "description": "bestemd voor: het vervoer van goederen met een terminaltrekker, die: - behoort tot de Europese voertuigcategorie U, en - is voorzien van een uitsluitend elektrische aandrijving",
+      "category": "D",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 86
+    },
+    {
+      "code": "E 3419",
+      "title": "Elektrisch aangedreven werktuig op een truckchassis",
+      "description": "bestemd voor: het verrichten van werkzaamheden met een vast op een truckchassis, aanhanger of oplegger gemonteerd werktuig",
+      "category": "E",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 87
+    },
+    {
+      "code": "E 3420",
+      "title": "Elektrisch aangedreven mobiel hijswerktuig",
+      "description": "bestemd voor: het in de open lucht verrichten van hijswerkzaamheden met een mobiel werktuig dat uitsluitend elektrisch wordt aangedreven",
+      "category": "E",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 87
+    },
+    {
+      "code": "E 3423",
+      "title": "Elektrisch aangedreven hoogwerker",
+      "description": "bestemd voor: het verrichten van werkzaamheden met een hoogwerker die uitsluitend elektrisch wordt aangedreven",
+      "category": "E",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 88
+    },
+    {
+      "code": "G 3425",
+      "title": "Elektrisch aangedreven werktuigendrager",
+      "description": "bestemd voor: het verrichten van werkzaamheden op land in de open lucht met een werktuigendrager niet zijnde een autonome werktuigendrager",
+      "category": "G",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 88
+    },
+    {
+      "code": "D 3430",
+      "title": "Elektrisch aangedreven AGV",
+      "description": "bestemd voor: het uitsluitend in de openlucht vervoeren van goederen met een volledig elektrisch aangedreven automatisch geleid voertuig (AGV) zonder chauffeur",
+      "category": "D",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 88
+    },
+    {
+      "code": "F 3510",
+      "title": "Elektrisch of waterstof aangedreven locomotief (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het aanpassen van de aandrijving van een bestaande locomotief door de dieselmotor te vervangen door een accupakket dat geen lood bevat en al dan niet een brandstofcel",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 89
+    },
+    {
+      "code": "E 3520",
+      "title": "Elektrisch of waterstof aangedreven locomotief",
+      "description": "bestemd voor: het vervoeren van personen of goederen met een elektrisch of waterstof aangedreven trein voor het spoor",
+      "category": "E",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 89
+    },
+    {
+      "code": "B 3610",
+      "title": "Elektrisch aangedreven vliegtuig of helikopter",
+      "description": "bestemd voor: het vervoeren van personen of goederen met een bemand vliegtuig of een bemande helikopter voorzien van een uitsluitend elektrische aandrijving",
+      "category": "B",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 89
+    },
+    {
+      "code": "F 3721",
+      "title": "Oplaadpunt voor elektrisch aangedreven zware voertuigen en mobiele werktuigen",
+      "description": "bestemd voor: het elektrisch laden en al dan niet ontladen van accu's van uitsluitend eigen of voor eigen gebruik ingezette voertuigen behorende tot de Europese voertuigcategorie M2, M3, N2 of N3, of mobiele werktuigen",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 90
+    },
+    {
+      "code": "F 3722",
+      "title": "Oplaadpunt voor vliegtuigen",
+      "description": "bestemd voor: het elektrisch laden van accu's van uitsluitend eigen vliegtuigen of helikopters die zijn voorzien van een geheel of gedeeltelijk elektrische hoofdaandrijving",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 90
+    },
+    {
+      "code": "F 3723",
+      "title": "Draadloos oplaadpunt voor elektrische fietsen",
+      "description": "bestemd voor: het elektrisch laden en al dan niet ontladen van accu's van uitsluitend eigen of voor eigen gebruik ingezette elektrische (bak)fietsen en speed-pedelecs",
+      "category": "F",
+      "chapter": "3. Mobiliteit",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 90
+    },
+    {
+      "code": "A 4000",
+      "title": "Nieuwe en innovatieve emissiereducerende technologie",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "A",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 91
+    },
+    {
+      "code": "F 4002",
+      "title": "Apparatuur voor procesgeïntegreerde emissiereductie (aanpassen bestaande situatie)",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 91
+    },
+    {
+      "code": "F 4003",
+      "title": "Apparatuur voor vermindering van emissies tijdens niet-reguliere bedrijfsvoering",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 91
+    },
+    {
+      "code": "F 4100",
+      "title": "Apparatuur voor het voorkomen van CO₂-vorming",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 91
+    },
+    {
+      "code": "F 4101",
+      "title": "Apparatuur voor het afvangen van CO₂ voor nuttige toepassing",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 91
+    },
+    {
+      "code": "F 4102",
+      "title": "Apparatuur voor het transport van afgevangen CO₂ voor nuttige toepassing",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 92
+    },
+    {
+      "code": "F 4103",
+      "title": "Apparatuur voor het binden van CO₂",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 92
+    },
+    {
+      "code": "F 4111",
+      "title": "Apparatuur voor elektrificatie van processen in de chemische industrie",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 92
+    },
+    {
+      "code": "F 4200",
+      "title": "Apparatuur voor emissiereductie van lachgas en methaan",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 92
+    },
+    {
+      "code": "F 4201",
+      "title": "Apparatuur voor vervanging van gefluoreerde broeikasgassen",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 92
+    },
+    {
+      "code": "A 4210",
+      "title": "Hoogspanningsschakelsysteem of gasgeïsoleerde leiding met een laag GWP-isolatiegas",
+      "description": "bestemd voor: het doorschakelen of transporteren van hoogspanning van ten minste 52 kilovolt met een schakelsysteem of gasgeïsoleerde leiding die geen SF₆ bevat",
+      "category": "A",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 92
+    },
+    {
+      "code": "E 4241",
+      "title": "Klimaatsysteem op basis van dauwpuntkoeling",
+      "description": "bestemd voor: het koelen van serverruimtes, schakelkasten of bedrijfsgebouwen met een klimaatsysteem op basis van dauwpuntkoeling",
+      "category": "E",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 93
+    },
+    {
+      "code": "F 4290",
+      "title": "Gasdetectieapparatuur voor F-gassen",
+      "description": "bestemd voor: het met ten minste twee sensoren vroegtijdig detecteren van lekken van gefluoreerde broeikasgassen op basis van infrarood (IR)",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 93
+    },
+    {
+      "code": "F 4305",
+      "title": "NOx-emissie reducerende techniek",
+      "description": "Zie paragraaf 2b voor de omschrijving van dit bedrijfsmiddel met doelvoorschrift en de voorwaarden voor bedrijfsmiddelen met doelvoorschrift.",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 93
+    },
+    {
+      "code": "F 4306",
+      "title": "Apparatuur voor natte NOx-verwijdering",
+      "description": "bestemd voor: het uit rookgassen verwijderen van NOx en al dan niet andere componenten door de rookgassen te leiden door een waterbad of een gaswasser met water als scrubbervloeistof",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 93
+    },
+    {
+      "code": "G 4314",
+      "title": "Selectieve NO-reductie-installatie voor een crematieoven",
+      "description": "bestemd voor: het omzetten van NO uit de afgassen van een bestaande crematieoven door de injectie van ureum of ammoniak, waarbij het injecteren van ureum of ammoniak niet leidt tot een toename van het verbruik van fossiele brandstoffen",
+      "category": "G",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 94
+    },
+    {
+      "code": "D 4315",
+      "title": "Selectieve (katalytische) reductie-installatie (SCR of SNCR) (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het omzetten van NO uit de afgassen van een bestaande stookinstallatie door de injectie van ureum of ammoniak, al dan niet in combinatie met een katalysator",
+      "category": "D",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 94
+    },
+    {
+      "code": "A 4316",
+      "title": "Accu voor stroomvoorziening van lokale activiteiten",
+      "description": "bestemd voor: het van stroom voorzien van lokale activiteiten met een verplaatsbaar accupakket dat geen lood bevat en een vermogen heeft van ten minste 2 kilovoltampère en ten hoogste 30 kilovoltampère",
+      "category": "A",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 94
+    },
+    {
+      "code": "F 4317",
+      "title": "Biogasaggregaat voor stroomvoorziening van lokale activiteiten",
+      "description": "bestemd voor: het van stroom voorzien van lokale activiteiten met een verplaatsbaar biogasaggregaat met driewegkatalysator of selectieve katalytische reductie (SCR)",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 95
+    },
+    {
+      "code": "D 4325",
+      "title": "(Biologische) ontzwavelingsinstallatie",
+      "description": "bestemd voor: het al dan niet biologisch reinigen van met zwavel verontreinigde gassen door een ontzwavelingsinstallatie",
+      "category": "D",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 95
+    },
+    {
+      "code": "D 4417",
+      "title": "Rookgenerator voor voedselbewerking (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het met een rookgenerator bewerken of garen van voedingswaren met rookcondensaat",
+      "category": "D",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 95
+    },
+    {
+      "code": "E 4486",
+      "title": "Filterinstallatie voor hout- en pelletstook",
+      "description": "bestemd voor: het met een vast opgesteld filter verwijderen van stofdeeltjes uit een rookgas afkomstig van een hout- of houtpelletgestookte ketel, kachel of oven met een thermisch vermogen van minder dan 1 megawatt",
+      "category": "E",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 96
+    },
+    {
+      "code": "G 4520",
+      "title": "Hermetisch gesloten magnetische koppeling",
+      "description": "bestemd voor: het verminderen of voorkomen van lek- en verdampingsverliezen van vluchtige organische stoffen of andere milieuschadelijke gassen langs roterende assen van machines door een hermetisch gesloten magnetische koppeling",
+      "category": "G",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 96
+    },
+    {
+      "code": "C 4581",
+      "title": "Elektrische thermische oxidator voor afgassen",
+      "description": "bestemd voor: het thermisch en autotherm oxideren van afgassen of vluchtige organische stoffen, waarbij in het proces geen gebruik wordt gemaakt van branders en het proces wordt opgestart met elektrische verwarming",
+      "category": "C",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": null,
+      "vamil_percentage": 75,
+      "page": 96
+    },
+    {
+      "code": "E 4585",
+      "title": "Biotricklingsysteem voor het verwijderen van VOS",
+      "description": "bestemd voor: de microbiologische afbraak van vluchtige organische stoffen (VOS) uit afgassen van een industrieel proces met een biotricklingfilter",
+      "category": "E",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 97
+    },
+    {
+      "code": "D 4680",
+      "title": "Koude oxidatie-installatie voor luchtreiniging",
+      "description": "bestemd voor: het al dan niet katalytisch niet-thermisch oxideren van geurstoffen, vluchtige organische stoffen (VOS) of pathogenen in naar buiten te blazen luchtstromen in de industrie of horeca door koud plasma of ionisatie op basis van hoogspanning",
+      "category": "D",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 97
+    },
+    {
+      "code": "E 4681",
+      "title": "Ozon- en uv-oxidatie-installatie voor luchtreiniging",
+      "description": "bestemd voor: het oxideren van pathogenen, geur- of koolwaterstoffen in naar buiten te blazen luchtstromen afkomstig van de horeca of voedingsmiddelenindustrie",
+      "category": "E",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 98
+    },
+    {
+      "code": "A 4682",
+      "title": "Apparatuur voor het verwijderen van zwavelhoudende geuremissies",
+      "description": "bestemd voor: het in een gesloten systeem in een waterige oplossing condenseren van zwavelhoudende dampen en de daarmee samenhangende geurstoffen afkomstig van een industrieel proces",
+      "category": "A",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 98
+    },
+    {
+      "code": "F 5102",
+      "title": "Voorzieningen voor het versterken van biodiversiteit",
+      "description": "bestemd voor: het versterken van de biodiversiteit of het uitbreiden van voedselaanbod en nestgelegenheid voor insecten, vleermuizen of andere wilde dieren, al dan niet in combinatie met waterretentie of preventieve maatregelen tegen plaaginsecten of exoten",
+      "category": "F",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 99
+    },
+    {
+      "code": "F 5121",
+      "title": "Zwerfafvalvangsysteem op het water",
+      "description": "bestemd voor: het verwijderen van in het oppervlaktewater aanwezig plastic zwerfafval met een verzamelvoorziening of -installatie op binnenwateren of het Nederlands Continentaal Plat (NCP)",
+      "category": "F",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 100
+    },
+    {
+      "code": "F 5122",
+      "title": "Systeem voor het verbeteren van kwaliteit van maaisel",
+      "description": "bestemd voor: het verbeteren van de kwaliteit van maaisel door het aanpassen van een maaimachine, waardoor voor of tijdens het maaien van openbaar groen",
+      "category": "F",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 100
+    },
+    {
+      "code": "F 5140",
+      "title": "Biodiversiteitversterkende voorzieningen voor het aquatisch milieu",
+      "description": "bestemd voor: het in of op een waterlichaam versterken van de gebiedseigen biodiversiteitsfactoren, al dan niet in combinatie met het verbeteren van de oppervlaktewaterkwaliteit of de kust- of oeverbescherming",
+      "category": "F",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 101
+    },
+    {
+      "code": "F 5141",
+      "title": "Gevelimpregnering zonder PFAS, siliconen, silanen en siloxanen",
+      "description": "bestemd voor: het waterafstotend maken van steenachtige buitengevels bij renovatie of restauratie zodat de levensduur van de gevel wordt verlengd, door het aanbrengen van een dunne water- en schimmelwerende laag met een impregneermiddel op plantaardige basis",
+      "category": "F",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 101
+    },
+    {
+      "code": "A 5145",
+      "title": "Decentrale zuiveringsinstallatie voor huishoudelijk afvalwater",
+      "description": "bestemd voor: het decentraal zuiveren van afvalwaterstromen van huishoudelijke of hiermee vergelijkbare aard",
+      "category": "A",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 101
+    },
+    {
+      "code": "G 5200",
+      "title": "Circulair utiliteitsgebouw",
+      "description": "bestemd voor: het realiseren van een circulair utiliteitsgebouw(deel), niet zijnde een woning, stal, kas of datacentrum",
+      "category": "G",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 102
+    },
+    {
+      "code": "G 5202",
+      "title": "Circulaire woning",
+      "description": "bestemd voor: het realiseren van een circulaire woning of gebouw(deel) met woon- of logiesfunctie, waarbij tijdens het bouwproject toegepaste materialen op volumebasis ten minste bestaan uit 50% hernieuwbare grondstoffen, of 25% hergebruikte bouwproducten, of 50% demontabele bouwproducten",
+      "category": "G",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 104
+    },
+    {
+      "code": "D 5215",
+      "title": "Zeer duurzaam gerenoveerd of verdergaand zeer duurzaam nieuw utiliteitsgebouw volgens BREEAM-NL",
+      "description": "bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties met een gebouw(deel), niet zijnde een stal of kas, waarbij een minimale score van 70% (renovatie) of 85% (nieuwbouw) op BREEAM-NL wordt behaald",
+      "category": "D",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 106
+    },
+    {
+      "code": "E 5216",
+      "title": "Duurzaam gerenoveerd of zeer duurzaam nieuw utiliteitsgebouw volgens BREEAM-NL",
+      "description": "bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties met een gebouw(deel), niet zijnde een stal of kas, waarbij een minimale score van 55% (renovatie) of 70% (nieuwbouw) op BREEAM-NL wordt behaald",
+      "category": "E",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 108
+    },
+    {
+      "code": "D 5220",
+      "title": "Zeer duurzaam gerenoveerd of verdergaand zeer duurzaam nieuw utiliteitsgebouw volgens GPR Gebouw",
+      "description": "bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties met een gebouw(deel), niet zijnde een stal, kas of datacentrum, waarbij een score van ten minste 7,5 (renovatie) of 8,5 (nieuwbouw) op GPR Gebouw wordt behaald",
+      "category": "D",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 110
+    },
+    {
+      "code": "E 5221",
+      "title": "Duurzaam gerenoveerd of zeer duurzaam nieuw utiliteitsgebouw volgens GPR Gebouw",
+      "description": "bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties met een gebouw(deel), niet zijnde een stal, kas of datacentrum, waarbij een score van ten minste 7,0 (renovatie) of 8,0 (nieuwbouw) op GPR Gebouw wordt behaald",
+      "category": "E",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 112
+    },
+    {
+      "code": "D 5227",
+      "title": "Verdergaand zeer duurzaam nieuw utiliteitsgebouw volgens DGNB International",
+      "description": "bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties, genoemd in tabel 4.148A van het Besluit bouwwerken leefomgeving, niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw(deel), niet zijnde een stal, kas of datacentrum",
+      "category": "D",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 114
+    },
+    {
+      "code": "E 5228",
+      "title": "Zeer duurzaam nieuw utiliteitsgebouw volgens DGNB International",
+      "description": "bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties, genoemd in tabel 4.418A van het Besluit bouwwerken leefomgeving, niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw(deel), niet zijnde een stal, kas of datacentrum",
+      "category": "E",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 115
+    },
+    {
+      "code": "D 5230",
+      "title": "(Zeer) duurzaam utiliteitsgebouw conform Milieulijst 2022, 2023 of 2024",
+      "description": "bestemd voor: het duurzaam vervullen van (utiliteits-)gebruiksfuncties, genoemd in tabel 4.148A van het Besluit bouwwerken leefomgeving, niet zijnde gebruiksfunctie 1 (woonfunctie), 11 (overige gebruiksfunctie) of 12 (bouwwerk geen gebouw zijnde), met een gebouw(deel), niet zijnde een stal of kas",
+      "category": "D",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 117
+    },
+    {
+      "code": "F 5300",
+      "title": "Groendak",
+      "description": "bestemd voor: het van beplanting voorzien van het dak van een bedrijfsgebouw, woning of ander bouwwerk",
+      "category": "F",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 118
+    },
+    {
+      "code": "F 5301",
+      "title": "Groene gevel of muur",
+      "description": "bestemd voor: het van beplanting voorzien van een gevel van een bedrijfsgebouw of woning, of beide zijden van een muurconstructie",
+      "category": "F",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 118
+    },
+    {
+      "code": "G 5340",
+      "title": "Groen en gezond bedrijfsterrein (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het zodanig herinrichten van een bestaand bedrijfsterrein gelegen op een bestaand bedrijventerrein of op een bestaande kantorenlocatie, dat er meer groen, een koelere werkomgeving en minder risico op wateroverlast, verdroging en hittestress wordt gerealiseerd",
+      "category": "G",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 119
+    },
+    {
+      "code": "A 5341",
+      "title": "Vergroening van een bedrijfsterrein, parkeerterrein of tuin (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het vervangen van de bestaande dichte verharding van een bedrijfsterrein of het parkeerterrein of de tuin van één of meerdere woningen",
+      "category": "A",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 119
+    },
+    {
+      "code": "G 5342",
+      "title": "Infiltratiesysteem of wadi (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het in de bebouwde kom bij een bestaand bedrijfsgebouw, bestaand bedrijfsterrein of bestaande woningen bufferen en infiltreren van regenwater in een infiltratiesysteem of wadi",
+      "category": "G",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 120
+    },
+    {
+      "code": "F 5344",
+      "title": "Retentiedak met dynamische afvoer in de bebouwde kom",
+      "description": "bestemd voor: het in de bebouwde kom tijdens hevige regenval bufferen van regenwater met een retentiedak of blauw-groendak",
+      "category": "F",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 121
+    },
+    {
+      "code": "F 5345",
+      "title": "Regenwaterbuffer met dynamische afvoer in de bebouwde kom",
+      "description": "bestemd voor: het in de bebouwde kom tijdens hevige regenval bufferen van regenwater in een retentievijver, boven- of ondergrondse opslagvoorziening",
+      "category": "F",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 121
+    },
+    {
+      "code": "D 5346",
+      "title": "Regenwaterinstallatie",
+      "description": "bestemd voor: het ter vermindering van het gebruik van grond-, oppervlakte- of leidingwater opslaan en benutten van regenwater",
+      "category": "D",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 122
+    },
+    {
+      "code": "F 5347",
+      "title": "Zuiveringsinstallatie voor grijswaterrecycling",
+      "description": "bestemd voor: het zuiveren van eigen afvalwater afkomstig van douche en al dan niet condenswater uit airco's en warmtepompen en spoelwater van de wasmachine",
+      "category": "F",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 122
+    },
+    {
+      "code": "F 5350",
+      "title": "Inpandig muurbegroeiingsysteem",
+      "description": "bestemd voor: het met een muurbegroeiingssysteem zuiveren en koelen van binnenruimten, ter ondersteuning van klimaatinstallaties",
+      "category": "F",
+      "chapter": "5. Gebouwde omgeving en klimaatadaptatie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 123
+    },
+    {
+      "code": "F 1100",
+      "title": "Productieapparatuur voor grondstoffen of producten op basis van biomassa",
+      "description": "bestemd voor: het verwerken van biomassa tot: 1. biomassagrondstoffen, of 2. (onderdelen van) een product waarin biomassagrondstoffen zijn toegepast",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 127
+    },
+    {
+      "code": "F 1101",
+      "title": "Productieapparatuur voor (producten van) biobased plastics",
+      "description": "bestemd voor: het voorkomen of verminderen van het gebruik van plastics van fossiele grondstoffen door: 1. het verwerken van biomassa tot biobased plastics, of 2. het produceren van (onderdelen van) producten met als grondstof biobased plastics gemaakt van biomassa",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 128
+    },
+    {
+      "code": "F 1106",
+      "title": "Productiesysteem met micro-organismen",
+      "description": "bestemd voor: het met micro-organismen produceren van grondstoffen voor de chemische of voedingsmiddelenindustrie",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 128
+    },
+    {
+      "code": "F 1200",
+      "title": "Nieuwe en innovatieve grondstofbesparende productieapparatuur",
+      "description": "bestemd voor: het verminderen van het gebruik van grondstoffen tijdens het vervaardigen van producten door het toepassen van een nieuwe en innovatieve technologie",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 129
+    },
+    {
+      "code": "A 1201",
+      "title": "Grondstofbesparende productieapparatuur",
+      "description": "bestemd voor: het verminderen van het gebruik van grondstoffen tijdens het vervaardigen van producten",
+      "category": "A",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 130
+    },
+    {
+      "code": "B 1202",
+      "title": "Grondstofbesparende industriële apparatuur",
+      "description": "bestemd voor: het verminderen van het gebruik van grondstoffen tijdens productieprocessen, niet zijnde het vervaardigen van producten, door het gebruik van industriële apparatuur die minder grondstoffen gebruikt",
+      "category": "B",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 131
+    },
+    {
+      "code": "B 1211",
+      "title": "3D-printer voor het vervangen van (industriële) productieapparatuur",
+      "description": "bestemd voor: het verminderen of voorkomen van het gebruik van grondstoffen door het 3D-printen van onderdelen of producten",
+      "category": "B",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 132
+    },
+    {
+      "code": "F 1301",
+      "title": "Apparatuur of voorziening voor demontage ten behoeve van hergebruik of recycling",
+      "description": "bestemd voor: het in onderdelen uiteen nemen van producten, waarbij onderdelen van deze producten kunnen worden hergebruikt of gerecycled tot grondstoffen",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 133
+    },
+    {
+      "code": "A 1340",
+      "title": "Waterbesparende voorziening of installatie",
+      "description": "bestemd voor: het verminderen van de inname van grond-, oppervlakte- of leidingwater voor gebruik als koel-, spoel- of proceswater door efficiënter watergebruik of kringloopsluiting",
+      "category": "A",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 133
+    },
+    {
+      "code": "F 1400",
+      "title": "Nieuwe en innovatieve recyclingapparatuur",
+      "description": "bestemd voor: het terugbrengen van een afvalstof tot een grondstof, niet zijnde chemische recycling, door het toepassen van een nieuwe en innovatieve technologie",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 134
+    },
+    {
+      "code": "A 1401",
+      "title": "Recyclingapparatuur",
+      "description": "bestemd voor: het terugbrengen van een afvalstof tot een grondstof, niet zijnde chemische recycling",
+      "category": "A",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 135
+    },
+    {
+      "code": "B 1405",
+      "title": "Terugwinningsinstallatie voor grondstoffen uit afvalwater of waterzuiveringsslib (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het ten opzichte van de bestaande situatie terugwinnen van één of meer stoffen uit afvalwater of waterzuiveringsslib",
+      "category": "B",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 27,
+      "vamil_percentage": 75,
+      "page": 136
+    },
+    {
+      "code": "F 1409",
+      "title": "Apparatuur voor de chemische recycling van afvalstoffen",
+      "description": "bestemd voor: het chemisch recyclen van afvalstoffen tot een grondstof",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 136
+    },
+    {
+      "code": "F 1490",
+      "title": "Recyclinginstallatie voor luiers",
+      "description": "bestemd voor: het verwerken van luiers en incontinentiemateriaal",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 137
+    },
+    {
+      "code": "A 1500",
+      "title": "Verwerkingsapparatuur voor gerecyclede grondstoffen",
+      "description": "bestemd voor: het verwerken van gerecyclede grondstoffen, niet zijnde biomassagrondstoffen, in (onderdelen van) een product",
+      "category": "A",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 138
+    },
+    {
+      "code": "F 1561",
+      "title": "Verwerkingsapparatuur voor plastic zwerfafval",
+      "description": "bestemd voor: het verwerken van plastic zwerfafval tot (onderdelen van) een product",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 139
+    },
+    {
+      "code": "A 1600",
+      "title": "Scheidingsapparatuur voor afvalstoffen",
+      "description": "bestemd voor: het scheiden van gemengde afvalstromen in deelstromen",
+      "category": "A",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 139
+    },
+    {
+      "code": "F 1700",
+      "title": "Productieapparatuur voor het vervangen van (potentiële) zeer zorgwekkende stoffen, nanodeeltjes of microplastics (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het tijdens een productieproces vervangen van (potentiële) zeer zorgwekkende stoffen, nanodeeltjes of microplastics door stoffen zonder milieuschadelijke effecten",
+      "category": "F",
+      "chapter": "1. Grondstoffen- en watergebruik",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 140
+    },
+    {
+      "code": "F 2605",
+      "title": "Apparatuur voor het opwaarderen van plantaardige (rest)stromen tot voedingsmiddelen",
+      "description": "bestemd voor: het opwaarderen van plantaardige (rest)stromen tot humane voedingsmiddelen of diervoeders",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 141
+    },
+    {
+      "code": "F 2715",
+      "title": "Apparatuur voor de winning van eiwit",
+      "description": "bestemd voor: het voor toepassing in humane voedingsproducten winnen van eiwit uit in Europa geteelde gewassen of uit plantaardige reststromen",
+      "category": "F",
+      "chapter": "2. Voedselvoorziening en landbouwproductie",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 141
+    },
+    {
+      "code": "A 4000",
+      "title": "Nieuwe en innovatieve emissiereducerende technologie",
+      "description": "bestemd voor: het verminderen of voorkomen van milieuschadelijke luchtzijdige emissies afkomstig van een industrieel proces door het toepassen van een nieuwe en innovatieve technologie",
+      "category": "A",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 36,
+      "vamil_percentage": 75,
+      "page": 142
+    },
+    {
+      "code": "F 4002",
+      "title": "Apparatuur voor procesgeïntegreerde emissiereductie (aanpassen bestaande situatie)",
+      "description": "bestemd voor: het aanpassen of vervangen van een bestaand productieproces in de industrie met als hoofddoel het voorkomen van milieuschadelijke luchtzijdige emissies naar de buitenlucht",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 142
+    },
+    {
+      "code": "F 4003",
+      "title": "Apparatuur voor vermindering van emissies tijdens niet-reguliere bedrijfsvoering",
+      "description": "bestemd voor: het reduceren van emissies van milieugevaarlijke stoffen uit een afgas of luchtstroom tijdens niet-reguliere bedrijfsvoering",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 143
+    },
+    {
+      "code": "F 4100",
+      "title": "Apparatuur voor het voorkomen van CO₂-vorming",
+      "description": "bestemd voor: het voorkomen of verminderen van de vorming van CO₂, door: 1. substitutie of vermindering van het gebruik van grond- of hulpstoffen, niet zijnde (fossiele) brandstoffen, die leiden tot het vormen van CO₂, of 2. aanpassing van het reactiemechanisme van een chemisch of biologisch proces waarbij CO₂ wordt gevormd",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 144
+    },
+    {
+      "code": "F 4101",
+      "title": "Apparatuur voor het afvangen van CO₂ voor nuttige toepassing",
+      "description": "bestemd voor: het uit de buitenlucht of afgassen afvangen van CO₂, waarbij de CO₂ wordt ingezet voor bemesting in de tuinbouw of als grondstof voor een product waarvoor CO₂ als grondstof niet gangbaar is",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 144
+    },
+    {
+      "code": "F 4102",
+      "title": "Apparatuur voor het transport van afgevangen CO₂ voor nuttige toepassing",
+      "description": "bestemd voor: het transporteren van uit de buitenlucht of afgassen afgevangen CO₂, waarbij de CO₂ wordt ingezet als grondstof voor een product waarvoor CO₂ als grondstof niet gangbaar is",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 145
+    },
+    {
+      "code": "F 4103",
+      "title": "Apparatuur voor het binden van CO₂",
+      "description": "bestemd voor: het chemisch binden van uit de buitenlucht of afgassen afgevangen CO₂ tot een stabiel product, waarbij de CO₂ onder industriële omstandigheden gebonden wordt, al dan niet na tussentijdse opslag, zuivering of chemische omzetting",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 145
+    },
+    {
+      "code": "F 4111",
+      "title": "Apparatuur voor elektrificatie van processen in de chemische industrie",
+      "description": "bestemd voor: het in de chemische industrie produceren van een grondstof of product via elektrochemische conversie ter voorkoming van het gebruik van fossiele grondstoffen en ter vermindering van emissies tijdens het productieproces",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 146
+    },
+    {
+      "code": "F 4200",
+      "title": "Apparatuur voor emissiereductie van lachgas en methaan",
+      "description": "bestemd voor: het reduceren van de emissie van methaan of lachgas, waarbij de terugverdientijd van het bedrijfsmiddel drie jaar of meer bedraagt",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 146
+    },
+    {
+      "code": "F 4201",
+      "title": "Apparatuur voor vervanging van gefluoreerde broeikasgassen",
+      "description": "bestemd voor: het voorkomen of vervangen van het gebruik van gefluoreerde broeikasgassen waarbij gefluoreerde broeikasgassen worden vervangen door natuurlijke of duurzamere middelen met een Global Warming Potential (GWP) van ten hoogste 5",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 147
+    },
+    {
+      "code": "F 4305",
+      "title": "NOx-emissie reducerende techniek",
+      "description": "bestemd voor: het verminderen of voorkomen van de emissie van NOx-emissie door aanpassing van, of additionele voorzieningen bij, een industrieel productieproces, waarbij de emissie van NOx-emissie ten minste 50% lager ligt dan wettelijk verplicht",
+      "category": "F",
+      "chapter": "4. Klimaat en lucht",
+      "mia_percentage": 45,
+      "vamil_percentage": 75,
+      "page": 147
+    }
+  ]
+}
