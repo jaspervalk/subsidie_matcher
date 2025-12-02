@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:adms="http://www.w3.org/ns/adms#"
+   xmlns:dcat="http://www.w3.org/ns/dcat#"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:donl="https://data.overheid.nl/dcat.rdf#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/"
+>
+  <rdf:Description rdf:about="https://data.overheid.nl/dataset/milieu--en-energielijst">
+    <adms:identifier>https://data.overheid.nl/data/dataset/milieu--en-energielijst</adms:identifier>
+    <dcat:contactPoint rdf:nodeID="dataset.milieu--en-energielijst.contactPoint"/>
+    <dcat:keyword xml:lang="nl">bedrijfsmiddelen</dcat:keyword>
+    <dcat:keyword xml:lang="nl">milieulijst</dcat:keyword>
+    <dcat:keyword xml:lang="nl">VAMIL</dcat:keyword>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dct:identifier>https://data.overheid.nl/dataset/milieu--en-energielijst</dct:identifier>
+    <dct:conformsTo rdf:resource="http://standaarden.overheid.nl/owms/terms/RVO"/>
+    <dcat:distribution rdf:nodeID="dataset.milieu--en-energielijst.distribution.0"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <dcat:landingPage rdf:resource="https://www.rvo.nl/open-data-van-rvonl"/>
+    <dct:creator rdf:resource="http://standaarden.overheid.nl/owms/terms/RVO"/>
+    <dct:title xml:lang="nl">Milieu- en energielijst</dct:title>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+    <donl:status rdf:resource="http://data.overheid.nl/status/beschikbaar"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2025-05-07T17:15:02</dct:modified>
+    <dcat:keyword xml:lang="nl">investeringsaftrek</dcat:keyword>
+    <dct:description xml:lang="nl">De Milieulijst bevat alle bedrijfsmiddelen die in aanmerking komen voor &lt;a href="https://www.rvo.nl/subsidies-regelingen/mia-en-vamil"&gt;MIA en Vamil&lt;/a&gt;. De Energielijst bevat alle bedrijfsmiddelen die in aanmerking komen voor &lt;a href="http://www.rvo.nl/subsidies-regelingen/energie-investeringsaftrek-eia"&gt;EIA&lt;/a&gt;. </dct:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:publisher rdf:resource="http://standaarden.overheid.nl/owms/terms/RVO"/>
+    <donl:sourceCatalog rdf:resource="https://data.overheid.nl"/>
+    <dcat:keyword xml:lang="nl">energielijst</dcat:keyword>
+    <dcat:keyword xml:lang="nl">MIA</dcat:keyword>
+    <dcat:keyword xml:lang="nl">EIA</dcat:keyword>
+    <dcat:keyword xml:lang="nl">belastingvoordeel</dcat:keyword>
+    <dcat:theme rdf:resource="http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.milieu--en-energielijst.distribution.0">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+    <dct:title xml:lang="nl">Energielijst en Milieulijst</dct:title>
+    <dcat:accessURL rdf:resource="http://www.rvo.nl/open-data-van-rvonl"/>
+    <dcat:downloadURL rdf:resource="https://www.rvo.nl/milieu-energielijst"/>
+    <donl:distributionType rdf:resource="https://data.overheid.nl/distributiontype/download"/>
+    <dct:description xml:lang="nl">Deelselecties mogelijk.</dct:description>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2018-12-13T15:57:14</dct:issued>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.milieu--en-energielijst.contactPoint">
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/Kind"/>
+    <v:email>mailto:hoofdredactie@rvo.nl</v:email>
+    <v:fn xml:lang="nl">Team Klantkanalen en -middelen / Mirjam van Kuijk</v:fn>
+  </rdf:Description>
+</rdf:RDF>
